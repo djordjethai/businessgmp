@@ -1,0 +1,31 @@
+{
+  "id": 736,
+  "type": "post",
+  "title": "Power BI code - A small contribution towards a better user experience",
+  "slug": "power-bi-code-a-small-contribution-towards-a-better-user-experience",
+  "date": "2021-07-18T08:59:10.000Z",
+  "modified": "2021-07-18T09:01:22.000Z",
+  "author": "djordje.thai",
+  "excerpt": "Power BI code When using the connectors that would pull your data from the source and present them into Power BI, it can happen that you will get no file, or the file with the empty results, whether it is in JSON or CSV…",
+  "contentHtml": "<p><strong>Power BI code</strong></p>\n\n\n\n<p>When using the connectors that would pull your data from the source and present them into Power BI, it can happen that you will get no file, or the file with the empty results, whether it is in JSON or CSV format.</p>\n\n\n\n<p>Users will get a very vague and confusing message that something went wrong. To avoid confusion, we can put a piece of code and test if we have our data pulled. If not, show the message of our choice. A great example of that you can see in Windsor.ai templates like this one shown in the image.</p>\n\n\n\n<div><figure><img src=\"/wp-content/uploads/2021/07/image.png\" alt=\"Power BI code\" loading=\"lazy\" decoding=\"async\"></figure></div>\n\n\n\n<p>If you&nbsp;<a href=\"https://www.windsor.ai/microsoft-power-bi-salesforce-report-dashboard-template/\" target=\"_blank\" rel=\"noreferrer noopener\">download the .pbit file</a>&nbsp;and connect your data, you can see the code itself using an advanced editor in the Power BI Desktop application. That way, we can eliminate the endless questions from our users. We can point them to solve the problem by themselves, use help pages, etc. That is a relief, isn't it?</p>\n\n\n\n\n\n\n\n<h2>If you want to know more</h2>\n\n\n\n<p>For more details about using Excel, Power BI, Windsor.ai platform, and other advanced productivity tools, you can&nbsp;<a href=\"/contact-us\" target=\"_blank\" rel=\"noreferrer noopener\">contact</a>&nbsp;me here or request a custom offer on &nbsp;<a href=\"https://www.upwork.com/freelancers/~01826447ec3d539bad?viewMode=1\" target=\"_blank\" rel=\"noreferrer noopener\">Upwork</a>&nbsp;and&nbsp;<a href=\"https://www.fiverr.com/djordjemedakovi?public_mode=true\" target=\"_blank\" rel=\"noreferrer noopener\">Fiverr</a>. It is also possible to have a direct relationship using&nbsp;<a href=\"\" target=\"_blank\" rel=\"noreferrer noopener\">&nbsp;</a><a href=\"https://payoneer.com/\" target=\"_blank\" rel=\"noreferrer noopener\">Payoneer</a> or&nbsp;<a href=\"https://paypal.com/\" target=\"_blank\" rel=\"noreferrer noopener\">PayPal</a>. If you have some other preferred options for collaboration, please&nbsp;use this&nbsp;<a href=\"/contact-us\" target=\"_blank\" rel=\"noreferrer noopener\">contact</a>&nbsp;form for suggestions.</p>",
+  "categories": [
+    "Data & Power BI"
+  ],
+  "categorySlugs": [
+    "excel-vba"
+  ],
+  "tags": [
+    "Power BI"
+  ],
+  "tagSlugs": [
+    "power-bi"
+  ],
+  "featuredImageId": 515,
+  "featuredImage": "/wp-content/uploads/2020/10/power-bi-vector-logo-e1601631889152.png",
+  "featuredImageAlt": "Power BI code",
+  "seoTitle": "%%title%%",
+  "seoDescription": "Sometimes users will get a very vague and confusing message that something went wrong. Avoid confusion, with a piece of Power BI code.",
+  "focusKeyword": "Power BI code",
+  "oldUrl": "https://business.georgemposi.com/power-bi-code-a-small-contribution-towards-a-better-user-experience/",
+  "route": "/power-bi-code-a-small-contribution-towards-a-better-user-experience/"
+}

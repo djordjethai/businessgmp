@@ -1,0 +1,22 @@
+{
+  "id": 1328,
+  "type": "page",
+  "title": "FAQ",
+  "slug": "faq",
+  "date": "2022-03-20T02:31:34.000Z",
+  "modified": "2022-08-04T07:56:24.000Z",
+  "author": "djordje.thai",
+  "excerpt": "Your most asked FAQ answered. See the topics about the Power BI, Excel, Marketing data attribution platforms, and many more. What is the “CTA”? CTA is short for a call to action. In Online marketing, CTA is an action…",
+  "contentHtml": "<p>Your most asked FAQ answered. See the topics about the Power BI, Excel, Marketing data attribution platforms, and many more.</p>\n\n\n\n<div><div><strong>What is the “CTA”?</strong> <p>CTA is short for a call to action. In Online marketing, CTA is an action that calls to the visitor's attention and should lead to engagement, for example, to buy your product or service.<br>It should stand out from the rest of the content on the page, but not appear like a gimmick or trick. It must be designed to create a desire in the visitor.<br>CTA is a vital part of every marketing strategy and you must take it seriously.</p> </div> <div><strong>Which is better for career growth - Tableau or Power BI?<br><a href=\"https://www.quora.com/profile/Djordje-Medakovic\" target=\"_blank\" rel=\"noreferrer noopener\"></a></strong> <p>It is really dependent on what you are using already. For me, as twenty years Microsoft user, it was natural to turn to Power BI. If you are starting from scratch, test both, and decide upon your preference. I could not tell for sure, which is better.<br>Of course, to use Power BI, you must be experienced in using other MS products to get optimal results. Tableau is more independent of other software, and it is a product “by itself,” sort to speak.</p> </div> <div><strong>Does Power BI require coding?</strong> <p>Well, in short - NO. But, if you want to have more control over your report behavior, you still need to have some coding knowledge. For example, most reports will do just fine, and you can define a lot of features and visuals just by using the options that are available from the menus and options for the fields, measures, and visuals. But, let’s say we have a data source that is not always absolutely “clean”. Errors can occur, and we need a way to handle those. In this case, we will need some coding, like in this Windsor ai example from one of their many Power BI templates.<br><br><img src=\"/wp-content/uploads/2022/03/bicode.jpg\" alt=\"FAQ Power BI Code\" loading=\"lazy\" decoding=\"async\"></p> </div> <div><strong>What data sources can Power BI connect to?</strong> <p>The variety of data sources is one of the best features of Power BI. As an advanced user, I mostly use getting data from Excel, for some of my company’s business data, then from pdf - which is a supprising option and works great with some white papers or reports, online services like Salesforce, and the option I use the most is getting data from the web. Using the service for getting the data from various sources, for me, is best done through services like Windsor.ai, but you can even go and collect data from Facebook, Twitter, or other sources by yourself. The only downside is that you need to have an API for each source you want to retrieve. So depending on your needs, the option for getting the data from all kind of sources are almost unlimited.</p> </div> <div><strong>How to connect Dropbox Excel files to Power BI</strong> <p>Connecting Dropbox Excel files to Power BI can be a challenging task. As there is no Dropbox connector in Power Bi, <a href=\"/connecting-dropbox-excel-files-to-power-bi/\" target=\"_blank\" rel=\"noreferrer noopener\">here is how I did it</a>. If there is a simpler way, please let me know. I will be happy to update this article with the necessary details.</p> </div> </div>",
+  "categories": [],
+  "categorySlugs": [],
+  "tags": [],
+  "tagSlugs": [],
+  "featuredImageId": 1243,
+  "featuredImage": "/wp-content/uploads/2020/07/sharing.webp",
+  "featuredImageAlt": "FAQ",
+  "seoDescription": "Your most asked FAQ answered. See the topics about the Power BI, Excel, Marketing data attribution platforms, and many more.",
+  "focusKeyword": "FAQ",
+  "oldUrl": "https://business.georgemposi.com/faq/",
+  "route": "/faq/"
+}

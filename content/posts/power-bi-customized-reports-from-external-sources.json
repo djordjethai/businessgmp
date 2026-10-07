@@ -1,0 +1,33 @@
+{
+  "id": 554,
+  "type": "post",
+  "title": "Power BI Customized reports from external sources",
+  "slug": "power-bi-customized-reports-from-external-sources",
+  "date": "2020-11-05T03:13:15.000Z",
+  "modified": "2020-11-05T03:13:20.000Z",
+  "author": "djordje.thai",
+  "excerpt": "Power Bi customized reports would enable you to use various templates from third-party vendors and adapt them to your reporting needs. It is always easier to use some predefined reports because we all know how hard it…",
+  "contentHtml": "<p>Power Bi customized reports would enable you to use various templates from third-party vendors and adapt them to your reporting needs. It is always easier to use some predefined reports because we all know how hard it is to get started. Once you connect your data to those templates, you will find out that you are mi8ssing some crucial information. Not all the businesses are the same, and templates can cover only common data that most companies use.</p>\n\n\n\n<p>Tweaking the report itself is painless. The difficulties come when you want to make a vendor reporting tool to get you different data from your analytics sources.<br></p>\n\n\n\n<h2>Choose your connectors</h2>\n\n\n\n<p>Windsor.ai has many connectors that would get the data from platforms like:</p>\n\n\n\n<ul><li>Google Analytics</li><li>Google Ads</li><li>Facebook Ads</li><li>HubSpot</li><li>LinkedIn Ads</li><li>TikTok Ads</li><li>Awin</li><li>AdRoll</li><li>Appnexus</li><li>Bing Ads</li><li>Criteo</li><li>Google Display &amp; Video 360</li><li>Snapchat Ads</li><li>Twitter Ads</li></ul>\n\n\n\n<p>But they also have a connector that they call “all” or the super-connector, that will get most of the data you need. Still, as in every other case, you might need to have an extended set or period range to fit your needs best. You can find a detailed structured explanation in <a href=\"https://www.windsor.ai/api-fields/\" target=\"_blank\" rel=\"noreferrer noopener\">this article</a>.</p>\n\n\n\n<p>After you get your ideal data set, only then can you make decisions based on your own very specific data.<br></p>\n\n\n\n<h2>Choose your dataset</h2>\n\n\n\n<p>Facebook Ads, for example, offer more than 300 metrics and dimensions to choose from. For Google Ads, it looks similar.&nbsp;If you are in luck and have a CRM system that is easy to integrate with cloud data pipeline software like Windsor.ai, chances are 99% that it&nbsp;is customized. CRM systems need a lot of flexibility. That’s why you will end up having your own particular fields.</p>\n\n\n\n<p>The next step is to connect your data to your Power BI template or a brand-new report.<br></p>\n\n\n\n<figure><img src=\"/wp-content/uploads/2020/11/custom-fields-data-pipelines-700x367-1.png\" alt=\"Power BI Customized reports \" loading=\"lazy\" decoding=\"async\"></figure>\n\n\n\n<p><br>I find it convenient to do this on the Power BI desktop and then publish my data to services for sharing the report with my co-workers.<br></p>\n\n\n\n<h2>Conclusion</h2>\n\n\n\n<p>Selecting the right data, period, and other parameters, is key to understanding the processes you want to analyze. Good preparation will enable you to have many more choices when creating your reports. Do not forget to prepare this first step, and you will save a lot of time and headaches later. If you are using a third-party platform to analyze your data, feel free to ask for all necessary inputs to get your API structure right.<br></p>\n\n\n\n<h2>If you want to know more</h2>\n\n\n\n<p>For more details about using Power BI, Power BI Customized reports, Windsor.ai platform, and other advanced productivity tools, you can&nbsp;<a href=\"/contact-us\" target=\"_blank\" rel=\"noreferrer noopener\">contact</a>&nbsp;me here or request a custom offer on &nbsp;<a href=\"https://www.upwork.com/freelancers/~01826447ec3d539bad?viewMode=1\" target=\"_blank\" rel=\"noreferrer noopener\">Upwork</a>&nbsp;and&nbsp;<a href=\"https://www.fiverr.com/djordjemedakovi?public_mode=true\" target=\"_blank\" rel=\"noreferrer noopener\">Fiverr</a>. It is also possible to have a direct relationship using&nbsp;<a href=\"\" target=\"_blank\" rel=\"noreferrer noopener\">&nbsp;</a><a href=\"https://payoneer.com/\" target=\"_blank\" rel=\"noreferrer noopener\">Payoneer</a> or&nbsp;<a href=\"https://paypal.com/\" target=\"_blank\" rel=\"noreferrer noopener\">PayPal</a>. If you have some other preferred option for collaboration, please&nbsp;use this&nbsp;<a href=\"/contact-us\" target=\"_blank\" rel=\"noreferrer noopener\">contact</a>&nbsp;form for the suggestions.<br><br></p>",
+  "categories": [
+    "Data & Power BI"
+  ],
+  "categorySlugs": [
+    "excel-vba"
+  ],
+  "tags": [
+    "Power BI",
+    "windsor.ai"
+  ],
+  "tagSlugs": [
+    "power-bi",
+    "windsor-ai"
+  ],
+  "featuredImageId": 558,
+  "featuredImage": "/wp-content/uploads/2020/11/Accessing-any-fields-from-your-marketing-platforms-for-your-data-pipelines-1920x960-1.png",
+  "featuredImageAlt": "Power BI Customized reports",
+  "seoTitle": "%%title%%",
+  "seoDescription": "Power BI Customized reports would enable you to use various templates from third-party vendors and adapt them to your reporting needs.",
+  "focusKeyword": "Power BI Customized reports",
+  "oldUrl": "https://business.georgemposi.com/power-bi-customized-reports-from-external-sources/",
+  "route": "/power-bi-customized-reports-from-external-sources/"
+}

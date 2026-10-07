@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "ai",
+    "name": "AI",
+    "count": 47
+  },
+  {
+    "slug": "power-bi",
+    "name": "Power BI",
+    "count": 17
+  },
+  {
+    "slug": "windsor-ai",
+    "name": "windsor.ai",
+    "count": 7
+  },
+  {
+    "slug": "excel",
+    "name": "excel",
+    "count": 5
+  },
+  {
+    "slug": "facebook-ads",
+    "name": "Facebook Ads",
+    "count": 5
+  },
+  {
+    "slug": "data-visualization",
+    "name": "Data Visualization",
+    "count": 4
+  }
+]

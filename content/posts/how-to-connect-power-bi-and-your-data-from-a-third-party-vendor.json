@@ -1,0 +1,35 @@
+{
+  "id": 514,
+  "type": "post",
+  "title": "How to connect Power BI and your data from a third-party vendor",
+  "slug": "how-to-connect-power-bi-and-your-data-from-a-third-party-vendor",
+  "date": "2020-10-02T10:14:58.000Z",
+  "modified": "2021-08-29T01:27:44.000Z",
+  "author": "djordje.thai",
+  "excerpt": "Power BI is one of the best complete visualization and BI tools. It is my favorite, at least. When you have all that power, it is vital to have a comprehensive data source and organize it as best as possible. For that…",
+  "contentHtml": "<p>Power BI is one of the best complete visualization and BI tools. It is my favorite, at least. When you have all that power, it is vital to have a comprehensive data source and organize it as best as possible. For that purpose, you will use your CRM or ERP solution, and for all external data sources, you will try to collect them from Google, <a href=\"https://community.windsor.ai/viewtopic.php?f=4&amp;t=24&amp;p=24&amp;hilit=google#p24\" target=\"_blank\" rel=\"noreferrer noopener\">Facebook</a>, Linked In, Twitter, and many other sources. It is a challenging and time-consuming task. Fortunately, there is a software platform that can do this task for you. Not only that, but some of them will also do the data analysis and intelligence on finding the meaning of the data, trends, and critical points.</p>\n\n\n\n<p>One of them is <a href=\"https://www.windsor.ai/microsoft-power-bi-web-media-overview-report-dashboard-template/\" target=\"_blank\" rel=\"noreferrer noopener\">Windsor.ai</a>. In their example, I will show how to connect data from a third-party vendor to your Power BI.<br></p>\n\n\n\n<h2>Connecting your data</h2>\n\n\n\n<p>If you find a template that you like, both visually and more importantly, you are offered to connect your data by the data selection. For all third-party vendors, you will need to register and allow those platforms to collect your data from many sources. Some of the vendors are offering a free plan or at least a free trial.</p>\n\n\n\n<p>When you apply to connect your data, you will be asked to register.</p>\n\n\n\n<p>After that, it is time to connect your data. That means granting access to your social and other accounts from where you want the data to be collected. Windsor.ai has a large number of possible connectors so that you will be able to connect to almost all of your data.<br></p>\n\n\n\n<p>Pay attention to follow the instructions on the screen, especially for Google Analytics, where you need to <a href=\"https://community.windsor.ai/viewtopic.php?f=4&amp;t=24&amp;p=24&amp;hilit=google#p24\" target=\"_blank\" rel=\"noreferrer noopener\">define the goals</a> if you want to use extended AI features from <a href=\"https://www.windsor.ai/microsoft-power-bi-web-media-overview-report-dashboard-template/\" target=\"_blank\" rel=\"noreferrer noopener\">Windsor.ai</a>. Here is how to define goals.<br></p>\n\n\n\n<h2>Registering and granting access</h2>\n\n\n\n<p>You will be assigned a username and API key that you would need to connect your data, together with the password you set at registration. You will find both at the top of the onboard form.</p>\n\n\n\n<p>On the top of the screen, you have instructions on connecting to some most used solutions. Here is how to <a href=\"https://community.windsor.ai/viewtopic.php?f=4&amp;t=31&amp;p=31#p31\" target=\"_blank\" rel=\"noreferrer noopener\">connect your data to Power BI</a>.</p>\n\n\n\n<p>It is possible to connect to some other sources, but you will need to contact support. My experience with Windsor.ai's support is excellent. They are fast and knowledgeable, and you will not have any trouble getting the solution to your request.</p>\n\n\n\n<p>This process is similar to any other third-party provider or platform. These instructions, in a broad sense, will help you to connect to any similar data source.</p>\n\n\n\n<p>You can also go to <a href=\"https://www.windsor.ai/microsoft-power-bi-web-media-overview-report-dashboard-template/\" target=\"_blank\" rel=\"noreferrer noopener\">Windsor.ai</a> Dashboard and explore your data there.</p>\n\n\n\n<p>In this place, you can define your dashboard and look at and edit your reports. Depending on your reporting or SQL knowledge level, you can use a different level of customization. Naturally, you can export all data in various formats.<br></p>\n\n\n\n<h2>Create your reports</h2>\n\n\n\n<p>After you successfully connected your data to Power BI, you can start creating or customizing reports as you find fit. Your data are connected and will be refreshed every time you access the report. You can also set an automatic refresh interval. Of course, you can and should publish your report to your organization or web. You can also submit it to the Power BI Data Stories Gallery.<br></p>\n\n\n\n<h2>Service I provide</h2>\n\n\n\n<p>For more details, you can <a href=\"/contact-us\" target=\"_blank\" rel=\"noreferrer noopener\">contact</a> me here, or request a custom offer on <a href=\"https://www.upwork.com/freelancers/~01826447ec3d539bad?viewMode=1\" target=\"_blank\" rel=\"noreferrer noopener\">Upwork</a> and&nbsp;<a href=\"https://www.fiverr.com/djordjemedakovi?public_mode=true\" target=\"_blank\" rel=\"noreferrer noopener\">Fiverr</a>. It is also possible to have a direct relationship using&nbsp;<a href=\"\" target=\"_blank\" rel=\"noreferrer noopener\">Payoneer</a>. If you have some other preferred option for collaboration, please&nbsp;use this <a href=\"/contact-us\" target=\"_blank\" rel=\"noreferrer noopener\">contact</a> form for the suggestions.<br><br></p>",
+  "categories": [
+    "Data & Power BI"
+  ],
+  "categorySlugs": [
+    "excel-vba"
+  ],
+  "tags": [
+    "connect data",
+    "Power BI",
+    "windsor.ai"
+  ],
+  "tagSlugs": [
+    "connect-data",
+    "power-bi",
+    "windsor-ai"
+  ],
+  "featuredImageId": 515,
+  "featuredImage": "/wp-content/uploads/2020/10/power-bi-vector-logo-e1601631889152.png",
+  "featuredImageAlt": "Power BI code",
+  "seoTitle": "%%title%% %%page%%",
+  "seoDescription": "Connect your Power BI visualization and BI tool. With all that power, it is vital to have a comprehensive data source. Find out how here.",
+  "focusKeyword": "connect Power BI",
+  "oldUrl": "https://business.georgemposi.com/how-to-connect-power-bi-and-your-data-from-a-third-party-vendor/",
+  "route": "/how-to-connect-power-bi-and-your-data-from-a-third-party-vendor/"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 683,
+  "type": "post",
+  "title": "Visualizing Amazon data in Power BI",
+  "slug": "visualizing-amazon-data-in-power-bi",
+  "date": "2021-04-07T08:32:29.000Z",
+  "modified": "2021-04-07T08:32:34.000Z",
+  "author": "djordje.thai",
+  "excerpt": "For many companies using Amazon to sell their service or product, it is greatly beneficial to visualize their data in Power BI. Power BI offers unprecedented visuals and can also establish all necessary hierarchy and…",
+  "contentHtml": "<p>For many companies using Amazon to sell their service or product, it is greatly beneficial to visualize their data in Power BI. Power BI offers unprecedented visuals and can also establish all necessary hierarchy and offer helpful data insights.</p>\n\n\n\n<p>Amazon Marketplace Web Service (Amazon MWS)&nbsp;is an integrated web service API that helps Amazon sellers to programmatically exchange data on listings, orders, payments, reports, and more. Moreover, data integration with Amazon enables high levels of selling automation, which can help sellers grow their business. Using&nbsp;Amazon MWS, sellers can increase selling efficiency, reduce labor requirements, and also improve customer response time.</p>\n\n\n\n<p>With this Power BI&nbsp;<strong><a href=\"https://www.windsor.ai/power-bi-amazon-report-dashboard-template/\" target=\"_blank\" rel=\"noreferrer noopener\">Amazon Overview Report&nbsp;</a></strong>template, therefore, you can visualize your Amazon Seller Central / Amazon MWS data in Power BI. You only need to connect your data to Windsor.ai and enter your API Key given in the process of registration. You’ll have access to your Amazon MWS data, and the whole process&nbsp;<strong>should not take you more than 5 minutes. </strong>Of course, you will need access to Amazon MWS.</p>\n\n\n\n<h2>Metrics used in this report are:</h2>\n\n\n\n<ul><li>date,</li><li>product,</li><li>transactions,</li><li>transactionrevenue,</li><li>marketplace,</li><li>item_status,</li><li>quantity,</li><li>item_price,</li><li>last_updated_date,</li><li>order_status,</li><li>fulfillment_channel,</li><li>sales_channel,</li><li>order_channel,</li><li>item_promotion_discount,</li><li>ship_city,</li><li>ship_state,</li><li>ship_postal_code,</li><li>ship_country.</li></ul>\n\n\n\n<p>Moreover, there are more metrics and dimensions available for advanced users that can add them by themselves.</p>\n\n\n\n<p>Report queries the data through our connector and makes it therefore available in real-time.</p>\n\n\n\n<p>At the moment, you can use our template for the Desktop version of Power BI. Of course, once you save it in Power BI Desktop, you can publish the report to your web services.</p>\n\n\n\n<p>Your feedback for the improvement of this report will be more than welcome.</p>\n\n\n\n<h2>If you want to know more</h2>\n\n\n\n<p>For more details about using Excel, Power BI, Windsor.ai platform, and also other advanced productivity tools, you can&nbsp;<a href=\"/contact-us\" target=\"_blank\" rel=\"noreferrer noopener\">contact</a>&nbsp;me here or request a custom offer on &nbsp;<a href=\"https://www.upwork.com/freelancers/~01826447ec3d539bad?viewMode=1\" target=\"_blank\" rel=\"noreferrer noopener\">Upwork</a>&nbsp;and&nbsp;<a href=\"https://www.fiverr.com/djordjemedakovi?public_mode=true\" target=\"_blank\" rel=\"noreferrer noopener\">Fiverr</a>. It is also possible to have a direct relationship using&nbsp;<a href=\"\" target=\"_blank\" rel=\"noreferrer noopener\">&nbsp;</a><a href=\"https://payoneer.com/\" target=\"_blank\" rel=\"noreferrer noopener\">Payoneer</a> or&nbsp;<a href=\"https://paypal.com/\" target=\"_blank\" rel=\"noreferrer noopener\">PayPal</a>. If you have some other preferred option for collaboration, please&nbsp;use this&nbsp;<a href=\"/contact-us\" target=\"_blank\" rel=\"noreferrer noopener\">contact</a>&nbsp;form for suggestions.</p>",
+  "categories": [
+    "Data & Power BI"
+  ],
+  "categorySlugs": [
+    "excel-vba"
+  ],
+  "tags": [
+    "amazon",
+    "Power BI"
+  ],
+  "tagSlugs": [
+    "amazon",
+    "power-bi"
+  ],
+  "featuredImageId": 684,
+  "featuredImage": "/wp-content/uploads/2021/04/Amazonsrcshotpixelized.png",
+  "featuredImageAlt": "Amazon Power BI",
+  "seoDescription": "For visualizing Amazon data, Power BI offers unprecedented features and will establish the necessary hierarchy offering helpful data insights",
+  "focusKeyword": "Amazon data in Power BI",
+  "oldUrl": "https://business.georgemposi.com/visualizing-amazon-data-in-power-bi/",
+  "route": "/visualizing-amazon-data-in-power-bi/"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 717,
+  "type": "post",
+  "title": "How to get your Facebook Ads, Google Ads, and other data to Power BI",
+  "slug": "how-to-get-your-facebook-ads-google-ads-and-other-data-to-power-bi",
+  "date": "2021-06-30T09:06:26.000Z",
+  "modified": "2021-06-30T09:21:19.000Z",
+  "author": "djordje.thai",
+  "excerpt": "How to get your Facebook Ads, Google Ads, and other data to Power BI Almost all modern CRM, EPR software, and social platforms have a possibility to get, store and analyze the data. However, if you want to, you can…",
+  "contentHtml": "<p><strong>How to get your Facebook Ads, Google Ads, and other data to Power BI</strong></p>\n\n\n\n<p>Almost all modern CRM, EPR software, and social platforms have a possibility to get, store and analyze the data. However, if you want to, you can always download them from the source and analyze them yourself. For that, you can use the tools of your choice. Many times, the choice is Power BI.</p>\n\n\n\n<h2>Get all of your data</h2>\n\n\n\n<p>The problem arises when you want to use the data from multiple sources, Google Ads, Facebook Ads, CRM software like Salesforce, etc.</p>\n\n\n\n<p>Also, you would like to have the most recent data. For that purpose, you will need to get the data online through a piece of software - Connector. It enables you to, well, connect to your data sources and get the data into your reporting and visualization tool.</p>\n\n\n\n<p>Some platforms provide their users with connectors, but most do not.</p>\n\n\n\n<p>It gives rise to services that are doing just that. They made connectors for many different data sources, and through their service, enable you to collect all your data.</p>\n\n\n\n<h2>OK, once you get the data, what then?</h2>\n\n\n\n<p>So, how to get your data from Facebook Ads, Google Ads,&nbsp;and other data to Power BI If you are using a tool like Power BI, you will need to create your data model and visualizations. Many marketers have some knowledge of how Power BI works.  But often do not have enough expertise or simply enough time to develop their own reports.</p>\n\n\n\n<p>Services like Windsor.ai provide users with <a href=\"https://www.windsor.ai/template-gallery/\">templates</a>. They are predefined reports with the most used fields and metrics that most marketers would use. It is often enough for reporting purposes. Sometimes, you can customize the template and add your own data fields choice and visualizations when you need more. A template is, therefore, a helpful tool to get you started.</p>\n\n\n\n<h2>Power BI template types</h2>\n\n\n\n<p>Windsor.ai provides two types of templates. The desktop ones (.pbit) and ones that are, in fact, web Apps, obtainable from the Microsoft AppSource market. In most cases, they are all free to use. The thing you pay, usually after some trial period, is data. The process of gathering and structuring the data is the business where the service provider will do just that. Then, with the help of a template, or some proprietary report, serve the data to you for further analysis.</p>\n\n\n\n<p>The templates for Power BI Desktop are known as .pbit files. They do not contain any data, only the structure of query and visualizations definitions, as well as the data model. When you use the template for the first time, you need to enter your API key.</p>\n\n\n\n<h2>What is API Key?</h2>\n\n\n\n<p>API Key, in this case, is a service provider key generated in the process of <a href=\"https://onboard.windsor.ai/register\" target=\"_blank\" rel=\"noreferrer noopener\">registration to service</a>, kind of password to access your data. In order to use it in this type of service, apart from registering, you will be prompted to grant access to the service provider to your source data, such are Facebook Ads and Google Ads accounts, Google Analytics, and Search Console data, CRM software credentials, etc. The whole idea simply cannot work without you giving those permissions to the service provider to enable them to get the data for you. From their side, companies like Windsor.ai fully commit to keeping your data private and secure.</p>\n\n\n\n<h2>Analyze your data</h2>\n\n\n\n<p>After entering your API Key and importing your first data, you will save the report as a regular Power BI desktop .pbix file. That file you can then easily publish and have it available for web users from your company. Of course, you will have to have some level of Power BI workings expertise.</p>\n\n\n\n<p>Web versions are much less flexible as they do not let you change the data model. They will let you change only some filters and fields. Power BI Web or Power BI Services is a web service that serves end-users without much knowledge of how power BI actually works “under the hood.”</p>\n\n\n\n<p>So, if you choose to get the AppSource template app, you will need to use the predefined data model and fields. It all depends on your needs and also the level of your Power BI expertise.</p>\n\n\n\n<h2>Conclusion</h2>\n\n\n\n<p>The purpose of data gathering services and the purpose of the templates is to make your work easier. It will let you focus on the substance and not on technicalities like how to get the data, organize the data model, etc. Once you get Facebook Ads, Google Ads,&nbsp;and other data to Power BI, it leaves you the time to truly immerse yourself in the results and draw the correct conclusions. As a result, it will enable you to improve your marketing campaigns and get your business to a higher level.</p>\n\n\n\n<h2>If you want to know more</h2>\n\n\n\n<p>For more details about using Excel, Power BI, Windsor.ai platform, and other advanced productivity tools, you can&nbsp;<a href=\"/contact-us\" target=\"_blank\" rel=\"noreferrer noopener\">contact</a>&nbsp;me here or request a custom offer on &nbsp;<a href=\"https://www.upwork.com/freelancers/~01826447ec3d539bad?viewMode=1\" target=\"_blank\" rel=\"noreferrer noopener\">Upwork</a>&nbsp;and&nbsp;<a href=\"https://www.fiverr.com/djordjemedakovi?public_mode=true\" target=\"_blank\" rel=\"noreferrer noopener\">Fiverr</a>. It is also possible to have a direct relationship using&nbsp;<a href=\"\" target=\"_blank\" rel=\"noreferrer noopener\">&nbsp;</a><a href=\"https://payoneer.com/\" target=\"_blank\" rel=\"noreferrer noopener\">Payoneer</a> or&nbsp;<a href=\"https://paypal.com/\" target=\"_blank\" rel=\"noreferrer noopener\">PayPal</a>. If you have some other preferred options for collaboration, please&nbsp;use this&nbsp;<a href=\"/contact-us\" target=\"_blank\" rel=\"noreferrer noopener\">contact</a>&nbsp;form for suggestions.</p>",
+  "categories": [
+    "Data & Power BI"
+  ],
+  "categorySlugs": [
+    "excel-vba"
+  ],
+  "tags": [
+    "Facebook Ads",
+    "google ads",
+    "google analytics",
+    "Power BI"
+  ],
+  "tagSlugs": [
+    "facebook-ads",
+    "google-ads",
+    "google-analytics",
+    "power-bi"
+  ],
+  "featuredImageId": 718,
+  "featuredImage": "/wp-content/uploads/2021/06/connect_facebook_ads_to_power_bi-1920x960-1.png",
+  "featuredImageAlt": "Facebook Ads Google Ads to Power BI",
+  "seoTitle": "%%title%%",
+  "seoDescription": "Get Power BI data model and visualizations for your Facebook, Google Ads, and more. Windsor.ai provides templates for Desktop and Web Apps.",
+  "focusKeyword": "Facebook Google to Power BI",
+  "oldUrl": "https://business.georgemposi.com/how-to-get-your-facebook-ads-google-ads-and-other-data-to-power-bi/",
+  "route": "/how-to-get-your-facebook-ads-google-ads-and-other-data-to-power-bi/"
+}

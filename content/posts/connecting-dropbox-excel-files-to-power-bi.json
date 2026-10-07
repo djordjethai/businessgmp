@@ -1,0 +1,32 @@
+{
+  "id": 1061,
+  "type": "post",
+  "title": "Connecting Dropbox Excel files to Power BI",
+  "slug": "connecting-dropbox-excel-files-to-power-bi",
+  "date": "2021-08-30T03:01:38.000Z",
+  "modified": "2022-02-14T01:41:24.000Z",
+  "author": "djordje.thai",
+  "excerpt": "Connecting Dropbox Excel files to Power BI can be a challenging task. If you are an Excel and Power BI user, in most cases, your Excel file will be on your computer in One Drive. But some users can keep their Excel…",
+  "contentHtml": "<p>Connecting Dropbox Excel files to Power BI can be a challenging task. If you are an Excel and Power BI user, in most cases, your Excel file will be on your computer in One Drive. But some users can keep their Excel files on Dropbox. As there is no Dropbox connector in Power Bi, these steps are needed to connect and successfully refresh the Excel data source from Dropbox.</p>\n\n\n\n<p>Keeping the files on your local computer can work for you. But, if you want to have a published Power BI report with a scheduled refresh, it can be a problem. In that case, you would need to set up a personal gateway. You also need to keep your PC on during the scheduled refresh time period. This is not that comfortable, isn’t it? The other option is to keep your Excel file on One Drive, and it will be like that in most cases.<br></p>\n\n\n\n<h2>Setting up the data source</h2>\n\n\n\n<p>Sometimes, for various reasons, you will keep your Excel files on Dropbox instead. But, you will still need to publish and refresh your Power BI reports.</p>\n\n\n\n<p>For the initial report definition, you will the standard “Get data from Excel” option and load the file from the Dropbox folder on your computer. When you finish setting up your Power BI report, and if you want to publish it and schedule refresh on Web Services, you would like to change your data source to the one in the cloud.&nbsp; So how to do that?<br></p>\n\n\n\n<h3>Step 1.</h3>\n\n\n\n<ul><li>Select the file in File Explorer and select the “Copy Dropbox Link” option. You may want to paste it into a notepad.</li></ul>\n\n\n\n<figure><img src=\"/wp-content/uploads/2021/08/windows-1-e1630291601826-1024x766.jpg\" alt=\"Connecting Dropbox Excel files to Power BI\" loading=\"lazy\" decoding=\"async\"></figure>\n\n\n\n<h3>Step 2.</h3>\n\n\n\n<ul><li>In the Power BI desktop report, choose Transform Data and then go to Advanced Editor. You will see a line similar to this one: Source = Excel.Workbook(File.Contents(\"C:\\Users\\djordje\\Dropbox\\tabele\\troskovi 2021 universal.xlsx\"), null, true),</li><li>Replace the “File.Content” with “Web.Content” and paste the Dropbox link that we get earlier instead of the filename. Change the statement “dl=0” to “dl=1” to tell Dropbox we want the Excel file and not the HTML one. Your line will look similar to this one: Source = Excel.Workbook(<strong>Web</strong>.Contents(\"https://www.dropbox.com/s/s2ps9hgjjmipapo/troskovi%202021%20universal.xlsx?dl=<strong>1</strong>\"), null, true),</li><li>Close and apply changes and refresh the report.</li></ul>\n\n\n\n<figure>\n<figure><img src=\"/wp-content/uploads/2021/08/transform-e1630291743872-1024x151.jpg\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure>\n\n\n\n<figure><img src=\"/wp-content/uploads/2021/08/EXCEL-e1630291694964-1024x584.jpg\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure>\n\n\n\n<figure><img src=\"/wp-content/uploads/2021/08/dropbox-e1630291774106-1024x583.jpg\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure>\n</figure>\n\n\n\n<h3>Step 3.</h3>\n\n\n\n<ul><li>After publishing your report to Web Services, you will need to edit Dropbox credentials in the “Datasouce Settings” then “Data source credentials” options and check if the “Scheduled refresh” is turned on.</li></ul>\n\n\n\n<figure><img src=\"/wp-content/uploads/2021/08/PBIWEB-e1630291717993-1024x583.jpg\" alt=\"\" loading=\"lazy\" decoding=\"async\"></figure>\n\n\n\n<p>From now on, you will get a regular Dataset refresh for your Power BI report in Power BI Web Services.</p>\n\n\n\n<h2>If you want to know more</h2>\n\n\n\n<p>For more details about Connecting Dropbox Excel files to Power BI, using Excel, Power BI, and other advanced productivity tools, you can&nbsp;<a href=\"/contact-us\" target=\"_blank\" rel=\"noreferrer noopener\">contact</a>&nbsp;me here or request a custom offer on &nbsp;<a href=\"https://www.upwork.com/freelancers/~01826447ec3d539bad?viewMode=1\" target=\"_blank\" rel=\"noreferrer noopener\">Upwork</a>&nbsp;and&nbsp;<a href=\"https://www.fiverr.com/djordjemedakovi?public_mode=true\" target=\"_blank\" rel=\"noreferrer noopener\">Fiverr</a>. It is also possible to have a direct relationship using&nbsp;<a href=\"\" target=\"_blank\" rel=\"noreferrer noopener\">&nbsp;</a><a href=\"https://payoneer.com/\" target=\"_blank\" rel=\"noreferrer noopener\">Payoneer</a> or&nbsp;<a href=\"https://paypal.com/\" target=\"_blank\" rel=\"noreferrer noopener\">PayPal</a>. If you have some other preferred options for collaboration, please&nbsp;use this&nbsp;<a href=\"/contact-us\" target=\"_blank\" rel=\"noreferrer noopener\">contact</a>&nbsp;form for suggestions.</p>",
+  "categories": [
+    "Data & Power BI"
+  ],
+  "categorySlugs": [
+    "excel-vba"
+  ],
+  "tags": [
+    "dropbox",
+    "excel"
+  ],
+  "tagSlugs": [
+    "dropbox",
+    "excel"
+  ],
+  "featuredImageId": 214,
+  "featuredImage": "/wp-content/uploads/2020/07/insightsthumb.jpg",
+  "featuredImageAlt": "Connecting Dropbox Excel files to Power BI",
+  "seoDescription": "Connecting Dropbox Excel files to Power BI can be a challenging task. As there is no Dropbox connector in Power Bi, here is how to do it.",
+  "focusKeyword": "Connecting Dropbox Excel files to Power BI",
+  "oldUrl": "https://business.georgemposi.com/connecting-dropbox-excel-files-to-power-bi/",
+  "route": "/connecting-dropbox-excel-files-to-power-bi/"
+}

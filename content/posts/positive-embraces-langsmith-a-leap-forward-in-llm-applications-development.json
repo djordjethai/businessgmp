@@ -1,0 +1,31 @@
+{
+  "id": 1646,
+  "type": "post",
+  "title": "Positive Embraces LangSmith: A Leap Forward in LLM Applications Development",
+  "slug": "positive-embraces-langsmith-a-leap-forward-in-llm-applications-development",
+  "date": "2023-09-24T07:41:29.000Z",
+  "modified": "2023-09-24T07:41:31.000Z",
+  "author": "djordje.thai",
+  "excerpt": "Langsmith At Positive, our journey with LLM-powered applications began with the adoption of LangChain’s open-source Python package. Our commitment towards driving business success through our LLM applications is in our…",
+  "contentHtml": "<p><strong>Langsmith</strong></p>\n\n\n\n<p>At Positive, our journey with LLM-powered applications began with the adoption of LangChain’s open-source Python package. Our commitment towards driving business success through our LLM applications is in our focus. The challenge has evolved from creating simple prototypes to crafting a robust pipeline from prototype to production.</p>\n\n\n\n<h2>The Emergence of LangSmith</h2>\n\n\n\n<p>In this transitional landscape, we’ve recently adopted LangSmith. This brilliantly unified platform is designed to facilitate the leap from prototype to full-scale production, addressing the complexities of building, evaluating, and enhancing LLM-fueled products.</p>\n\n\n\n<h2>Bridging the Gap: Various Hurdles Addressed</h2>\n\n\n\n<p>The introduction of the platform aligns perfectly with our tech development efforts at Positive. Therefore, it offers an effective solutions to common roadblocks experienced in traditional software engineering. With <a href=\"https://docs.smith.langchain.com/\" target=\"_blank\" rel=\"noreferrer noopener\">LangSmith</a>, understanding the model inputs and outputs becomes a streamlined process.</p>\n\n\n\n<h2>The Positive Experience</h2>\n\n\n\n<p>LangSmith is already fostering powerful changes in our development workflow at Positive. Moreover, it provides enhanced visibility into the cause and effect of each stage of our applications, facilitating faster debugging and iterations.</p>\n\n\n\n<h2>The Testing and Evaluating Phase </h2>\n\n\n\n<p>It allows us to confidently test and evaluate the effects of changes in a systematic manner. By creating and utilizing curated datasets, we gain clearer insights into how changes affect our applications' outputs. Additionally, its integration with the open-source evaluation modules provides an insightful evaluation strategy for our applications.</p>\n\n\n\n<h2>Maximizing Performance with LangSmith</h2>\n\n\n\n<p>LangSmith has become an indispensable tool for the end-to-end LLM application process. Consequently, from its significant role in tracking system-level performance, debugging, and user-interaction analysis, it now underpins the complete lifecycle of our application development process at Positive.</p>\n\n\n\n<h2>LangSmith: Our Go-To Tool for All Needs</h2>\n\n\n\n<p>Beyond its individual capabilities, the advantage of LangSmith, to us at Positive, is its unified, all-encompassing hub for various work functionalities. We are increasingly operating within the platform's environment for its interlinked functions and time-saving capabilities.</p>\n\n\n\n<p>The app is expanding the boundaries of functionality by integrating vital features like analytics, playgrounds, data collaboration, and more. Its ability to facilitate easy data export for fine-tuning models is also a significant asset for our team.</p>\n\n\n\n<p>In conclusion, our journey with LangSmith at Positive is just beginning, but we're already blown away by its potential. We can’t wait to explore all the capabilities it has to offer and see our LLM applications flourish!</p>\n\n\n\n<p>Learn more about<a href=\"/revolutionizing-ai-assistants-leveraging-fine-tuning-in-positive-doos-digital-transformation-journey/\"> our quest to AI</a>.</p>",
+  "categories": [
+    "AI & LLMs"
+  ],
+  "categorySlugs": [
+    "ai-llms"
+  ],
+  "tags": [
+    "AI"
+  ],
+  "tagSlugs": [
+    "ai"
+  ],
+  "featuredImageId": 1651,
+  "featuredImage": "/wp-content/uploads/2023/09/ls.webp",
+  "featuredImageAlt": "langsmith",
+  "seoTitle": "Positive Embraces LangSmith %%sep%% %%sitename%%",
+  "seoDescription": "In this transitional landscape, we’ve recently adopted LangSmith.addressing the complexities of building, and evaluating LLM",
+  "focusKeyword": "langsmith",
+  "oldUrl": "https://business.georgemposi.com/positive-embraces-langsmith-a-leap-forward-in-llm-applications-development/",
+  "route": "/positive-embraces-langsmith-a-leap-forward-in-llm-applications-development/"
+}

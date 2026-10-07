@@ -1,0 +1,32 @@
+{
+  "id": 639,
+  "type": "post",
+  "title": "Facebook Ads data in Power BI a Fresh look",
+  "slug": "facebook-ads-data-in-power-bi-a-fresh-look",
+  "date": "2021-02-17T04:32:37.000Z",
+  "modified": "2021-02-17T04:37:42.000Z",
+  "author": "djordje.thai",
+  "excerpt": "Facebook Ads data in the Power BI report is one of the most queried topics in the data visualization market. Using the Power BI, we can get maximum insights using vast amounts of data, measures, and conversion details…",
+  "contentHtml": "<p>Facebook Ads data in the Power BI report is one of the most queried topics in the data visualization market. Using the Power BI, we can get maximum insights using vast amounts of data, measures, and conversion details that Facebook offers.</p>\n\n\n\n<p>Combining those two can be a challenging task. Moreover, not many providers have successfully made this integration. One of the most successful is Windosr.ai, with this robust and informative visual covering some of the most critical measures pulled from the Facebook Ads manager.</p>\n\n\n\n<p>This template also offers a possibility to easily add new fields, using the table of more than 500 Facebook defined fields. Furthermore, with a little bit of knowledge on how Facebook reports work, you can create your own visuals and dashboards using <a href=\"https://www.windsor.ai/microsoft-power-bi-facebook-ads-report-dashboard-template/\" target=\"_blank\" rel=\"noreferrer noopener\">Windsor.ai Facebook Connector</a>.<br></p>\n\n\n\n<h2>Facebook Ads data in Power BI from Windsor.ai includes:</h2>\n\n\n\n<h3>Dimensions</h3>\n\n\n\n<ul><li>Campaigns</li><li>Ad set</li></ul>\n\n\n\n<h3>Breakdowns</h3>\n\n\n\n<ul><li>Country</li><li>Age</li><li>Gender</li><li>Objective</li><li>Device</li><li>Publisher (Facebook, Instagram, Audience Network, …)</li></ul>\n\n\n\n<h3>Metrics</h3>\n\n\n\n<ul><li>Cost</li><li>CPM</li><li>Impressions</li><li>Clicks (all)</li><li>CTR</li><li>CPC</li><li>Website Conversions</li><li>Website Purchase Revenue</li><li>Cost per Website Conversion</li><li>Actions (overall)</li><li>Website Purchases</li><li>Cost per Website Purchase</li><li>Cost</li></ul>\n\n\n\n<p>The template contains two pages,&nbsp; Overview as well as Breakdowns. Furthermore, it can be customized with &gt; 500 different dimensions, breakdowns, and metrics. Head here to see a complete list:&nbsp;<a href=\"https://www.windsor.ai/api-fields/#facebook-ads-connector\">available metrics and dimensions</a>.</p>\n\n\n\n<p>&nbsp;It queries the data through our connector and makes it available in real-time. Follow the steps outlined below to get your data connection.</p>\n\n\n\n<p>Power BI is getting more and more available to marketing professionals and not only for IT experts. Moreover, now you can also get this template as App on AppSource so that you can use it in Web Services (web version of Power BI). Of course, you can still download the Desktop version of the template. It is intended to help advanced users to customize and improve the data analyzing experience.<br></p>\n\n\n\n<h2>If you want to know more</h2>\n\n\n\n<p>For more details about using Excel, Power BI, Windsor.ai platform, and other advanced productivity tools, you can&nbsp;<a href=\"/contact-us\">contact</a>&nbsp;me here or request a custom offer on &nbsp;<a href=\"https://www.upwork.com/freelancers/~01826447ec3d539bad?viewMode=1\">Upwork</a>&nbsp;and&nbsp;<a href=\"https://www.fiverr.com/djordjemedakovi?public_mode=true\">Fiverr</a>. It is also possible to have a direct relationship using&nbsp;&nbsp;<a href=\"https://payoneer.com/\">Payoneer</a> or&nbsp;<a href=\"https://paypal.com/\">PayPal</a>. If you have some other preferred option for collaboration, please&nbsp;use this&nbsp;<a href=\"/contact-us\">contact</a>&nbsp;form for suggestions.<br><br></p>",
+  "categories": [
+    "Data & Power BI"
+  ],
+  "categorySlugs": [
+    "excel-vba"
+  ],
+  "tags": [
+    "Facebook Ads",
+    "Power BI"
+  ],
+  "tagSlugs": [
+    "facebook-ads",
+    "power-bi"
+  ],
+  "featuredImageId": 642,
+  "featuredImage": "/wp-content/uploads/2021/02/FB-ads-2.jpg",
+  "featuredImageAlt": "Facebook Ads data in Power",
+  "seoDescription": "Facebook Ads data in the Power BI report is one of the most queried topics in the data visualization market. Windsor.ai offers a solution.",
+  "focusKeyword": "Facebook Ads data in Power",
+  "oldUrl": "https://business.georgemposi.com/facebook-ads-data-in-power-bi-a-fresh-look/",
+  "route": "/facebook-ads-data-in-power-bi-a-fresh-look/"
+}

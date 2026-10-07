@@ -1,0 +1,20 @@
+{
+  "id": 6,
+  "type": "page",
+  "title": "Contact Us",
+  "slug": "contact-us",
+  "date": "2019-01-30T04:57:51.000Z",
+  "modified": "2023-11-22T04:43:18.000Z",
+  "author": "djordje.thai",
+  "excerpt": "Contact Business Online Mastery at info@georgemposi.com.",
+  "contentHtml": "",
+  "categories": [],
+  "categorySlugs": [],
+  "tags": [],
+  "tagSlugs": [],
+  "seoTitle": "%%title%% %%page%% %%sep%% %%sitename%% %%sep%% Share your thoughts",
+  "seoDescription": "Contact Business Online Mastery by email at info@georgemposi.com.",
+  "focusKeyword": "Contact Us",
+  "oldUrl": "https://business.georgemposi.com/contact-us/",
+  "route": "/contact-us/"
+}

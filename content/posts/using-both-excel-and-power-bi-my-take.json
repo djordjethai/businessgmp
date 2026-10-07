@@ -1,0 +1,34 @@
+{
+  "id": 593,
+  "type": "post",
+  "title": "Using both Excel and Power BI – My Take",
+  "slug": "using-both-excel-and-power-bi-my-take",
+  "date": "2020-12-16T11:41:30.000Z",
+  "modified": "2021-01-23T03:48:38.000Z",
+  "author": "djordje.thai",
+  "excerpt": "Excel and Power BI, when I use which and why? Microsoft Excel is my spreadsheet of choice for more than thirty years now. It has gone a long way since then. Today as a part of office 365, Excel is more than the…",
+  "contentHtml": "<p><strong>Excel and Power BI, when I use which and why?&nbsp;</strong></p>\n\n\n\n<p>Microsoft Excel is my spreadsheet of choice for more than thirty years now. It has gone a long way since then. Today as a part of office 365, Excel is more than the application that captures data in rows and columns. It is now an integrated suite for all your data analysis and reporting. You can now turn your data into insights.&nbsp;</p>\n\n\n\n<p>Power BI, on the other hand, is a business analytics tool. Various software services, apps, and connectors connect your unrelated data sources into interactive insights, superbly visualized, and structured.</p>\n\n\n\n<p>The dilemma that arises is when and for what purpose to use Excel, and where it is better to turn to Power BI.</p>\n\n\n\n\n\n\n\n<h2>When I use Excel?</h2>\n\n\n\n<p>Excel is excellent for organizing data, as it understands your patterns and helps you save time. It will help you to get a better picture of your data. Various charts, graphs, and images will help you present your data to stakeholders and convey a clear message. It has Power Query capabilities in recent versions, connecting different data sources and building data models using “M” Language. So, why we need Power BI then?<br></p>\n\n\n\n<h2>Power BI</h2>\n\n\n\n<p>Power BI can connect to excel spreadsheets, cloud, relational databases, NoSQL databases, Data warehouses, flat files, Big Data tools, and much more. The specific structure of Power BI (as a Desktop and as a web service) makes it robust, simple, and fast, and ready for real-time analytics. For that purpose, it uses powerful DAX language. It also works well with mobile devices.<br></p>\n\n\n\n<h2>When one ends, and another starts?</h2>\n\n\n\n<p>Most of the users will use both for their data reporting and analyzing needs.</p>\n\n\n\n<p>Excel is a spreadsheet. Unlike Power BI, it is easy to use all kinds of formulas and functions and shape your data tables as you need. It can create macros and even whole programs so that you can process your data. Excel has been an irreplaceable spreadsheet tool for decades, and it is unmatched for all kinds of tabular reports.</p>\n\n\n\n<p>You can do advanced data modeling and create graphs and charts. But there, its power stops, and future work is transferred to Power BI.</p>\n\n\n\n<p>Power BI is primarily Business Intelligence (BI) and Data Visualization tool and, as such, faster in processing than Excel. It can handle a large amount, unlike Excel.</p>\n\n\n\n<p>Power BI dashboards are more interactive&nbsp;and can share dashboards with a large number of users.<br></p>\n\n\n\n<h2>Excel and Power Bi reports comparison</h2>\n\n\n\n<p>Comparing the two reports, they are the same, except one is created for <a href=\"https://www.windsor.ai/excel-facebook-ads-overview-report/\" target=\"_blank\" rel=\"noreferrer noopener\">Excel</a> and another for <a href=\"https://www.windsor.ai/microsoft-power-bi-facebook-ads-report-dashboard-template/\" target=\"_blank\" rel=\"noreferrer noopener\">Power BI</a>. They both use the <a href=\"https://www.windsor.ai/excel/\" target=\"_blank\" rel=\"noreferrer noopener\">same connector and data set</a>, analyzing the Facebook Ads marketing campaigns. You can see the differences in practical use, both visually and in handling a large amount of data. Try both and let me know which one suits your needs better.</p>\n\n\n\n<figure><img src=\"/wp-content/uploads/2020/12/FB-Ads-1024x537.jpg\" alt=\"\" loading=\"lazy\" decoding=\"async\"><figcaption>Power BI Report</figcaption></figure>\n\n\n\n<p>Fortunately, you can always transfer data from one to another and customize your reporting and analysis process.</p>\n\n\n\n\n\n\n\n<h2>If you want to know more</h2>\n\n\n\n<p>For more details about using Excel, Power BI, Windsor.ai platform, and other advanced productivity tools, you can&nbsp;<a href=\"/contact-us\" target=\"_blank\" rel=\"noreferrer noopener\">contact</a>&nbsp;me here or request a custom offer on &nbsp;<a href=\"https://www.upwork.com/freelancers/~01826447ec3d539bad?viewMode=1\" target=\"_blank\" rel=\"noreferrer noopener\">Upwork</a>&nbsp;and&nbsp;<a href=\"https://www.fiverr.com/djordjemedakovi?public_mode=true\" target=\"_blank\" rel=\"noreferrer noopener\">Fiverr</a>. It is also possible to have a direct relationship using&nbsp;<a href=\"\" target=\"_blank\" rel=\"noreferrer noopener\">&nbsp;</a><a href=\"https://payoneer.com/\" target=\"_blank\" rel=\"noreferrer noopener\">Payoneer</a> or&nbsp;<a href=\"https://paypal.com/\" target=\"_blank\" rel=\"noreferrer noopener\">PayPal</a>. If you have some other preferred option for collaboration, please&nbsp;use this&nbsp;<a href=\"/contact-us\" target=\"_blank\" rel=\"noreferrer noopener\">contact</a>&nbsp;form for suggestions.<br><br></p>",
+  "categories": [
+    "Data & Power BI"
+  ],
+  "categorySlugs": [
+    "excel-vba"
+  ],
+  "tags": [
+    "excel",
+    "Power BI",
+    "reports and visualization"
+  ],
+  "tagSlugs": [
+    "excel",
+    "power-bi",
+    "reports-and-visualization"
+  ],
+  "featuredImageId": 595,
+  "featuredImage": "/wp-content/uploads/2020/12/Excel-Facebook-Ads-Report.jpg",
+  "featuredImageAlt": "excel and power bi",
+  "seoDescription": "Excel and Power BI - when to use which one. Or to use both? Most of the users will use both for their data reporting and analyzing needs.",
+  "focusKeyword": "Excel and Power BI",
+  "oldUrl": "https://business.georgemposi.com/using-both-excel-and-power-bi-my-take/",
+  "route": "/using-both-excel-and-power-bi-my-take/"
+}

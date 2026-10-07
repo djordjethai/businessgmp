@@ -1,0 +1,23 @@
+{
+  "id": 1398,
+  "type": "page",
+  "title": "SEO",
+  "slug": "seo-2",
+  "date": "2022-08-04T08:04:25.000Z",
+  "modified": "2022-08-04T11:14:27.000Z",
+  "author": "djordje.thai",
+  "excerpt": "Explore SEO articles from Business Online Mastery.",
+  "contentHtml": "<p>This archive has moved to the dedicated <a href=\"/category/seo/\"><strong>SEO collection</strong></a>.</p>",
+  "categories": [],
+  "categorySlugs": [],
+  "tags": [],
+  "tagSlugs": [],
+  "featuredImageId": 46,
+  "featuredImage": "/wp-content/uploads/2020/05/cropped-Icon.jpg",
+  "featuredImageAlt": "Sharing the experience",
+  "seoTitle": "%%sitedesc%% %%sep%% %%sitename%%",
+  "seoDescription": "Explore SEO articles from Business Online Mastery.",
+  "focusKeyword": "sharing the experience",
+  "oldUrl": "https://business.georgemposi.com/seo-2/",
+  "route": "/seo-2/"
+}

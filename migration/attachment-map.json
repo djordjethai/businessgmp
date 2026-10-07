@@ -1,0 +1,1493 @@
+[
+  {
+    "id": 43,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/05/Logo-1-e1590132773338.jpg",
+    "title": "Logo (1)"
+  },
+  {
+    "id": 44,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/05/cropped-Logo-1-1.jpg",
+    "title": "cropped-Logo-1-1.jpg"
+  },
+  {
+    "id": 45,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/05/Icon.jpg",
+    "alt": "Business - subscribe",
+    "title": "Icon"
+  },
+  {
+    "id": 46,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/05/cropped-Icon.jpg",
+    "localPath": "/wp-content/uploads/2020/05/cropped-Icon.jpg",
+    "alt": "Sharing the experience",
+    "title": "cropped-Icon.jpg"
+  },
+  {
+    "id": 49,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/05/cropped-Logo-1.jpg",
+    "title": "cropped-Logo-1.jpg"
+  },
+  {
+    "id": 135,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/excel-VBA.jpg",
+    "alt": "Advanced productivity tools - Excel VBA",
+    "title": "excel VBA"
+  },
+  {
+    "id": 136,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/Global-business.jpg",
+    "alt": "Global business - awareness building",
+    "title": "Global business"
+  },
+  {
+    "id": 137,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/SEO.jpg",
+    "alt": "SEO",
+    "title": "SEO"
+  },
+  {
+    "id": 138,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/sharing.jpg",
+    "localPath": "/wp-content/uploads/2020/07/sharing.jpg",
+    "alt": "Business Online - Sharing the experience",
+    "title": "sharing"
+  },
+  {
+    "id": 145,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/IMG_1178.jpg",
+    "title": "IMG_1178"
+  },
+  {
+    "id": 188,
+    "parentId": 187,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/create-custom-excel-spreadsheet-with-vba-and-data-analysis.png",
+    "title": "create-custom-excel-spreadsheet-with-vba-and-data-analysis"
+  },
+  {
+    "id": 189,
+    "parentId": 187,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/wordpress-website-yoast-seo-and-image-optimization-seo.png",
+    "localPath": "/wp-content/uploads/2020/07/wordpress-website-yoast-seo-and-image-optimization-seo.png",
+    "alt": "keyword research",
+    "title": "wordpress-website-yoast-seo-and-image-optimization seo"
+  },
+  {
+    "id": 190,
+    "parentId": 187,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/wordpress-website-yoast-seo-and-image-optimization.jpg",
+    "localPath": "/wp-content/uploads/2020/07/wordpress-website-yoast-seo-and-image-optimization.jpg",
+    "alt": "WordPress SEO",
+    "title": "wordpress-website-yoast-seo-and-image-optimization"
+  },
+  {
+    "id": 201,
+    "parentId": 199,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/mailerlite.png",
+    "alt": "Landing pages and email automation",
+    "title": "mailerlite"
+  },
+  {
+    "id": 203,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/report_new.png",
+    "localPath": "/wp-content/uploads/2020/07/report_new.png",
+    "alt": "Landing pages and email automation",
+    "title": "report_new"
+  },
+  {
+    "id": 210,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/wordpress-website-yoast-seo-and-image-optimization-seo-1.png",
+    "title": "wordpress-website-yoast-seo-and-image-optimization seo"
+  },
+  {
+    "id": 211,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/portfolio-web-inner-banner-1920-600.jpg",
+    "alt": "Business Online",
+    "title": "portfolio-web-inner-banner-1920-600"
+  },
+  {
+    "id": 214,
+    "parentId": 146,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/insightsthumb.jpg",
+    "localPath": "/wp-content/uploads/2020/07/insightsthumb.jpg",
+    "alt": "Connecting Dropbox Excel files to Power BI",
+    "title": "insightsthumb"
+  },
+  {
+    "id": 252,
+    "parentId": 250,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/Power-BI-Gartner.jpg",
+    "localPath": "/wp-content/uploads/2020/07/Power-BI-Gartner.jpg",
+    "alt": "Power BI Gartner",
+    "title": "Power BI Gartner"
+  },
+  {
+    "id": 262,
+    "parentId": 256,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/data-studio.png",
+    "localPath": "/wp-content/uploads/2020/07/data-studio.png",
+    "alt": "data studio",
+    "title": "data studio"
+  },
+  {
+    "id": 265,
+    "parentId": 264,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/thumb.png",
+    "alt": "Power BI Templates",
+    "title": "thumb"
+  },
+  {
+    "id": 266,
+    "parentId": 264,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/influences2.png",
+    "localPath": "/wp-content/uploads/2020/07/influences2.png",
+    "alt": "Power BI templates",
+    "title": "influences2"
+  },
+  {
+    "id": 279,
+    "parentId": 275,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/08/yastvsrm.jpg",
+    "alt": "Yoast or Rank Math",
+    "title": "yastvsrm"
+  },
+  {
+    "id": 286,
+    "parentId": 284,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/email-marketing-tools.png",
+    "localPath": "/wp-content/uploads/2020/09/email-marketing-tools.png",
+    "alt": "email marketing",
+    "title": "email-marketing-tools"
+  },
+  {
+    "id": 294,
+    "parentId": 291,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/MS-APPSSOURCE.jpg",
+    "localPath": "/wp-content/uploads/2020/09/MS-APPSSOURCE.jpg",
+    "alt": "Microsoft AppSource for Power BI Web Apps",
+    "title": "MS APPSSOURCE"
+  },
+  {
+    "id": 313,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/woocommerce-placeholder.png",
+    "alt": "Lifelong Learning",
+    "title": "woocommerce-placeholder"
+  },
+  {
+    "id": 375,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/yastvsrm.jpg",
+    "localPath": "/wp-content/uploads/2020/09/yastvsrm.jpg",
+    "alt": "Yoast or Rank Math",
+    "title": "yastvsrm"
+  },
+  {
+    "id": 378,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/phone-1052023_1920.jpg",
+    "localPath": "/wp-content/uploads/2020/09/phone-1052023_1920.jpg",
+    "alt": "AI Agents",
+    "title": "phone-1052023_1920"
+  },
+  {
+    "id": 379,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/notebook-336634_1920.jpg",
+    "localPath": "/wp-content/uploads/2020/09/notebook-336634_1920.jpg",
+    "alt": "marketing data",
+    "title": "notebook-336634_1920"
+  },
+  {
+    "id": 380,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/modern-analyst-1316900_1920.jpg",
+    "localPath": "/wp-content/uploads/2020/09/modern-analyst-1316900_1920.jpg",
+    "alt": "Advanced productivity tools - Excel VBA quality of a dataset",
+    "title": "modern-analyst-1316900_1920"
+  },
+  {
+    "id": 381,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/laptop-593673_1920-1.jpg",
+    "localPath": "/wp-content/uploads/2020/09/laptop-593673_1920-1.jpg",
+    "alt": "Teaching online - learning platforms",
+    "title": "laptop-593673_1920 (1)"
+  },
+  {
+    "id": 382,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/ipad-820272_1920.jpg",
+    "alt": "Private Online Lessons",
+    "title": "ipad-820272_1920"
+  },
+  {
+    "id": 383,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/computer-2242264_1920.jpg",
+    "alt": "Courses",
+    "title": "computer-2242264_1920"
+  },
+  {
+    "id": 384,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/coffee-5132832_1920.jpg",
+    "alt": "Private Lessons",
+    "title": "coffee-5132832_1920"
+  },
+  {
+    "id": 385,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/apple-1853259_1920.jpg",
+    "localPath": "/wp-content/uploads/2020/09/apple-1853259_1920.jpg",
+    "alt": "Digital Transformation and Grammarly",
+    "title": "apple-1853259_1920"
+  },
+  {
+    "id": 386,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/wordpress-4297727_1920.jpg",
+    "title": "wordpress-4297727_1920"
+  },
+  {
+    "id": 387,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/ux-789162_1920.jpg",
+    "localPath": "/wp-content/uploads/2020/09/ux-789162_1920.jpg",
+    "alt": "Power BI",
+    "title": "ux-789162_1920"
+  },
+  {
+    "id": 390,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/school-1782427_1920.jpg",
+    "localPath": "/wp-content/uploads/2020/09/school-1782427_1920.jpg",
+    "alt": "Lifelong Learning",
+    "title": "school-1782427_1920"
+  },
+  {
+    "id": 391,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/puzzle-2500333_1920.jpg",
+    "localPath": "/wp-content/uploads/2020/09/puzzle-2500333_1920.jpg",
+    "alt": "Awareness - learning platforms",
+    "title": "puzzle-2500333_1920"
+  },
+  {
+    "id": 396,
+    "parentId": 268,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/windsor2.jpg",
+    "localPath": "/wp-content/uploads/2020/07/windsor2.jpg",
+    "alt": "Supermetrics alternatives",
+    "title": "windsor2"
+  },
+  {
+    "id": 515,
+    "parentId": 514,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/10/power-bi-vector-logo-e1601631889152.png",
+    "localPath": "/wp-content/uploads/2020/10/power-bi-vector-logo-e1601631889152.png",
+    "alt": "Power BI code",
+    "title": "power-bi-vector-logo"
+  },
+  {
+    "id": 522,
+    "parentId": 521,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/10/gramf1.jpg",
+    "title": "gramf1"
+  },
+  {
+    "id": 523,
+    "parentId": 521,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/10/gramf2.jpg",
+    "localPath": "/wp-content/uploads/2020/10/gramf2.jpg",
+    "alt": "Grammarly for Chrome",
+    "title": "gramf2"
+  },
+  {
+    "id": 524,
+    "parentId": 521,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/10/wpgramm1.jpg",
+    "alt": "Grammarly for Chrome",
+    "title": "wpgramm1"
+  },
+  {
+    "id": 532,
+    "parentId": 530,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/10/pbidesktopvsservice.jpg",
+    "localPath": "/wp-content/uploads/2020/10/pbidesktopvsservice.jpg",
+    "alt": "Power BI Desktop",
+    "title": "pbidesktopvsservice"
+  },
+  {
+    "id": 534,
+    "parentId": 530,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/10/pbi-marketing.jpg",
+    "localPath": "/wp-content/uploads/2020/10/pbi-marketing.jpg",
+    "alt": "Power BI Desktop",
+    "title": "pbi marketing"
+  },
+  {
+    "id": 541,
+    "parentId": 539,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/10/privacy.jpg",
+    "localPath": "/wp-content/uploads/2020/10/privacy.jpg",
+    "title": "privacy"
+  },
+  {
+    "id": 542,
+    "parentId": 539,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/10/pdf-to-excel.jpg",
+    "localPath": "/wp-content/uploads/2020/10/pdf-to-excel.jpg",
+    "alt": "Facebook Ads",
+    "title": "pdf to excel"
+  },
+  {
+    "id": 543,
+    "parentId": 539,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/10/fbexcel.jpg",
+    "localPath": "/wp-content/uploads/2020/10/fbexcel.jpg",
+    "alt": "Facebook Ads",
+    "title": "fbexcel"
+  },
+  {
+    "id": 548,
+    "parentId": 546,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/10/pbipdf1.jpg",
+    "localPath": "/wp-content/uploads/2020/10/pbipdf1.jpg",
+    "alt": "Power BI data sources",
+    "title": "pbipdf1"
+  },
+  {
+    "id": 549,
+    "parentId": 546,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/10/pbipdf2.png",
+    "alt": "Power BI data sources",
+    "title": "pbipdf2"
+  },
+  {
+    "id": 550,
+    "parentId": 546,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/10/pdf-to-PBI.jpg",
+    "localPath": "/wp-content/uploads/2020/10/pdf-to-PBI.jpg",
+    "alt": "Power BI data sources",
+    "title": "pdf to PBI"
+  },
+  {
+    "id": 557,
+    "parentId": 554,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/11/custom-fields-data-pipelines-700x367-1.png",
+    "localPath": "/wp-content/uploads/2020/11/custom-fields-data-pipelines-700x367-1.png",
+    "alt": "Power BI Customized reports",
+    "title": "custom-fields-data-pipelines-700x367"
+  },
+  {
+    "id": 558,
+    "parentId": 554,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/11/Accessing-any-fields-from-your-marketing-platforms-for-your-data-pipelines-1920x960-1.png",
+    "localPath": "/wp-content/uploads/2020/11/Accessing-any-fields-from-your-marketing-platforms-for-your-data-pipelines-1920x960-1.png",
+    "alt": "Power BI Customized reports",
+    "title": "Accessing-any-fields-from-your-marketing-platforms-for-your-data-pipelines-1920x960"
+  },
+  {
+    "id": 561,
+    "parentId": 560,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/11/help-1.jpg",
+    "localPath": "/wp-content/uploads/2020/11/help-1.jpg",
+    "alt": "Power BI User-friendly Power Apps",
+    "title": "help-1"
+  },
+  {
+    "id": 563,
+    "parentId": 560,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/11/ipad-820272_1920.jpg",
+    "localPath": "/wp-content/uploads/2020/11/ipad-820272_1920.jpg",
+    "alt": "Power BI User-friendly Power Apps",
+    "title": "ipad-820272_1920"
+  },
+  {
+    "id": 569,
+    "parentId": 568,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/11/FB-Ads.jpg",
+    "localPath": "/wp-content/uploads/2020/11/FB-Ads.jpg",
+    "alt": "Facebook Ads",
+    "title": "FB Ads"
+  },
+  {
+    "id": 582,
+    "parentId": 580,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/12/pbibingpost-scaled.jpg",
+    "localPath": "/wp-content/uploads/2020/12/pbibingpost-scaled.jpg",
+    "alt": "Bing Ads",
+    "title": "pbibingpost"
+  },
+  {
+    "id": 588,
+    "parentId": 586,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/12/linkedinads.png",
+    "localPath": "/wp-content/uploads/2020/12/linkedinads.png",
+    "alt": "LinkedIn Ads Reporting",
+    "title": "linkedinads"
+  },
+  {
+    "id": 595,
+    "parentId": 593,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/12/Excel-Facebook-Ads-Report.jpg",
+    "localPath": "/wp-content/uploads/2020/12/Excel-Facebook-Ads-Report.jpg",
+    "alt": "excel and power bi",
+    "title": "Excel Facebook Ads Report"
+  },
+  {
+    "id": 596,
+    "parentId": 593,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/12/FB-Ads.jpg",
+    "title": "FB-Ads"
+  },
+  {
+    "id": 642,
+    "parentId": 639,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/02/FB-ads-2.jpg",
+    "localPath": "/wp-content/uploads/2021/02/FB-ads-2.jpg",
+    "alt": "Facebook Ads data in Power",
+    "title": "FB ads 2"
+  },
+  {
+    "id": 684,
+    "parentId": 683,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/04/Amazonsrcshotpixelized.png",
+    "localPath": "/wp-content/uploads/2021/04/Amazonsrcshotpixelized.png",
+    "title": "Amazon Power BI"
+  },
+  {
+    "id": 692,
+    "parentId": 690,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/05/screely-1619661064285.png",
+    "localPath": "/wp-content/uploads/2021/05/screely-1619661064285.png",
+    "alt": "Power BI Salesforce",
+    "title": "screely-1619661064285"
+  },
+  {
+    "id": 715,
+    "parentId": 711,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/06/Power-BI-Multichannel-Marketing-Attribution-Dashboard.png",
+    "localPath": "/wp-content/uploads/2021/06/Power-BI-Multichannel-Marketing-Attribution-Dashboard.png",
+    "alt": "Marketing channels performance analysis in Power BI",
+    "title": "Power-BI-Multichannel-Marketing-Attribution-Dashboard"
+  },
+  {
+    "id": 718,
+    "parentId": 717,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/06/connect_facebook_ads_to_power_bi-1920x960-1.png",
+    "localPath": "/wp-content/uploads/2021/06/connect_facebook_ads_to_power_bi-1920x960-1.png",
+    "alt": "Facebook Ads Google Ads to Power BI",
+    "title": "connect_facebook_ads_to_power_bi-1920x960"
+  },
+  {
+    "id": 737,
+    "parentId": 736,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/07/image.png",
+    "localPath": "/wp-content/uploads/2021/07/image.png",
+    "title": "image"
+  },
+  {
+    "id": 743,
+    "parentId": 740,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/elementor/screenshots/Elementor-post-screenshot_740_2021-07-25-12-55-34_6bc52086.png",
+    "title": "Elementor-post-screenshot_740_2021-07-25-12-55-34_6bc52086.png"
+  },
+  {
+    "id": 760,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/08/GalleryPage-img_9.jpg",
+    "title": "GalleryPage-img_9.jpg"
+  },
+  {
+    "id": 1035,
+    "parentId": 489,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/10/grammarly-wp-e1630120672324.jpg",
+    "localPath": "/wp-content/uploads/2020/10/grammarly-wp-e1630120672324.jpg",
+    "alt": "Grammarly and WordPress",
+    "title": "grammarly wp"
+  },
+  {
+    "id": 1052,
+    "parentId": 480,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/08/free-vs-paid-grammarly.jpg",
+    "localPath": "/wp-content/uploads/2021/08/free-vs-paid-grammarly.jpg",
+    "title": "free-vs-paid-grammarly"
+  },
+  {
+    "id": 1064,
+    "parentId": 1061,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/08/dropbox-e1630291774106.jpg",
+    "title": "dropbox"
+  },
+  {
+    "id": 1065,
+    "parentId": 1061,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/08/EXCEL-e1630291694964.jpg",
+    "alt": "Connecting Dropbox Excel files to Power BI",
+    "title": "EXCEL"
+  },
+  {
+    "id": 1066,
+    "parentId": 1061,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/08/PBIWEB-e1630291717993.jpg",
+    "title": "PBIWEB"
+  },
+  {
+    "id": 1067,
+    "parentId": 1061,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/08/transform-e1630291743872.jpg",
+    "alt": "Connecting Dropbox Excel files to Power BI",
+    "title": "transform"
+  },
+  {
+    "id": 1068,
+    "parentId": 1061,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/08/windows-1-e1630291601826.jpg",
+    "alt": "Connecting Dropbox Excel files to Power BI",
+    "title": "windows"
+  },
+  {
+    "id": 1121,
+    "parentId": 5,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/10/djordje1.png",
+    "title": "djordje1"
+  },
+  {
+    "id": 1150,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/11/table.jpg",
+    "title": "table"
+  },
+  {
+    "id": 1151,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/11/table-1.jpg",
+    "title": "table"
+  },
+  {
+    "id": 1174,
+    "parentId": 1151,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/11/table-1.webp",
+    "title": "table-1"
+  },
+  {
+    "id": 1175,
+    "parentId": 1150,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/11/table.webp",
+    "title": "table"
+  },
+  {
+    "id": 1176,
+    "parentId": 1121,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/10/djordje1.webp",
+    "title": "djordje1"
+  },
+  {
+    "id": 1177,
+    "parentId": 1068,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/08/windows-1-e1630291601826.webp",
+    "title": "windows-1-e1630291601826"
+  },
+  {
+    "id": 1178,
+    "parentId": 1067,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/08/transform-e1630291743872.webp",
+    "title": "transform-e1630291743872"
+  },
+  {
+    "id": 1179,
+    "parentId": 1066,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/08/PBIWEB-e1630291717993.webp",
+    "title": "PBIWEB-e1630291717993"
+  },
+  {
+    "id": 1180,
+    "parentId": 1065,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/08/EXCEL-e1630291694964.webp",
+    "title": "EXCEL-e1630291694964"
+  },
+  {
+    "id": 1181,
+    "parentId": 1064,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/08/dropbox-e1630291774106.webp",
+    "title": "dropbox-e1630291774106"
+  },
+  {
+    "id": 1182,
+    "parentId": 1052,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/08/free-vs-paid-grammarly.webp",
+    "title": "free-vs-paid-grammarly"
+  },
+  {
+    "id": 1183,
+    "parentId": 1035,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/10/grammarly-wp-e1630120672324.webp",
+    "title": "grammarly-wp-e1630120672324"
+  },
+  {
+    "id": 1184,
+    "parentId": 760,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/08/GalleryPage-img_9.webp",
+    "title": "GalleryPage-img_9"
+  },
+  {
+    "id": 1185,
+    "parentId": 743,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/elementor/screenshots/Elementor-post-screenshot_740_2021-07-25-12-55-34_6bc52086.webp",
+    "title": "Elementor-post-screenshot_740_2021-07-25-12-55-34_6bc52086"
+  },
+  {
+    "id": 1186,
+    "parentId": 737,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/07/image.webp",
+    "title": "image"
+  },
+  {
+    "id": 1187,
+    "parentId": 718,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/06/connect_facebook_ads_to_power_bi-1920x960-1.webp",
+    "title": "connect_facebook_ads_to_power_bi-1920x960-1"
+  },
+  {
+    "id": 1188,
+    "parentId": 715,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/06/Power-BI-Multichannel-Marketing-Attribution-Dashboard.webp",
+    "title": "Power-BI-Multichannel-Marketing-Attribution-Dashboard"
+  },
+  {
+    "id": 1189,
+    "parentId": 692,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/05/screely-1619661064285.webp",
+    "title": "screely-1619661064285"
+  },
+  {
+    "id": 1190,
+    "parentId": 684,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/04/Amazonsrcshotpixelized.webp",
+    "title": "Amazonsrcshotpixelized"
+  },
+  {
+    "id": 1191,
+    "parentId": 642,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/02/FB-ads-2.webp",
+    "title": "FB-ads-2"
+  },
+  {
+    "id": 1192,
+    "parentId": 596,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/12/FB-Ads.webp",
+    "title": "FB-Ads"
+  },
+  {
+    "id": 1193,
+    "parentId": 595,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/12/Excel-Facebook-Ads-Report.webp",
+    "title": "Excel-Facebook-Ads-Report"
+  },
+  {
+    "id": 1194,
+    "parentId": 588,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/12/linkedinads.webp",
+    "title": "linkedinads"
+  },
+  {
+    "id": 1195,
+    "parentId": 582,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/12/pbibingpost-scaled.webp",
+    "title": "pbibingpost-scaled"
+  },
+  {
+    "id": 1196,
+    "parentId": 569,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/11/FB-Ads.webp",
+    "title": "FB-Ads"
+  },
+  {
+    "id": 1197,
+    "parentId": 563,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/11/ipad-820272_1920.webp",
+    "localPath": "/wp-content/uploads/2020/11/ipad-820272_1920.webp",
+    "alt": "AI Revolutionizing Everyday Work - Artificial General Intelligence",
+    "title": "ipad-820272_1920"
+  },
+  {
+    "id": 1198,
+    "parentId": 561,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/11/help-1.webp",
+    "title": "help-1"
+  },
+  {
+    "id": 1199,
+    "parentId": 558,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/11/Accessing-any-fields-from-your-marketing-platforms-for-your-data-pipelines-1920x960-1.webp",
+    "title": "Accessing-any-fields-from-your-marketing-platforms-for-your-data-pipelines-1920x960-1"
+  },
+  {
+    "id": 1200,
+    "parentId": 557,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/11/custom-fields-data-pipelines-700x367-1.webp",
+    "title": "custom-fields-data-pipelines-700x367-1"
+  },
+  {
+    "id": 1201,
+    "parentId": 550,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/10/pdf-to-PBI.webp",
+    "title": "pdf-to-PBI"
+  },
+  {
+    "id": 1202,
+    "parentId": 549,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/10/pbipdf2.webp",
+    "title": "pbipdf2"
+  },
+  {
+    "id": 1203,
+    "parentId": 548,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/10/pbipdf1.webp",
+    "title": "pbipdf1"
+  },
+  {
+    "id": 1204,
+    "parentId": 543,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/10/fbexcel.webp",
+    "title": "fbexcel"
+  },
+  {
+    "id": 1205,
+    "parentId": 542,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/10/pdf-to-excel.webp",
+    "title": "pdf-to-excel"
+  },
+  {
+    "id": 1206,
+    "parentId": 541,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/10/privacy.webp",
+    "title": "privacy"
+  },
+  {
+    "id": 1207,
+    "parentId": 534,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/10/pbi-marketing.webp",
+    "title": "pbi-marketing"
+  },
+  {
+    "id": 1208,
+    "parentId": 532,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/10/pbidesktopvsservice.webp",
+    "title": "pbidesktopvsservice"
+  },
+  {
+    "id": 1209,
+    "parentId": 524,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/10/wpgramm1.webp",
+    "title": "wpgramm1"
+  },
+  {
+    "id": 1210,
+    "parentId": 523,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/10/gramf2.webp",
+    "title": "gramf2"
+  },
+  {
+    "id": 1211,
+    "parentId": 522,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/10/gramf1.webp",
+    "title": "gramf1"
+  },
+  {
+    "id": 1212,
+    "parentId": 396,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/windsor2.webp",
+    "title": "windsor2"
+  },
+  {
+    "id": 1213,
+    "parentId": 391,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/puzzle-2500333_1920.webp",
+    "localPath": "/wp-content/uploads/2020/09/puzzle-2500333_1920.webp",
+    "alt": "AI supported solutions",
+    "title": "puzzle-2500333_1920"
+  },
+  {
+    "id": 1214,
+    "parentId": 390,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/school-1782427_1920.webp",
+    "title": "school-1782427_1920"
+  },
+  {
+    "id": 1215,
+    "parentId": 387,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/ux-789162_1920.webp",
+    "title": "ux-789162_1920"
+  },
+  {
+    "id": 1216,
+    "parentId": 386,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/wordpress-4297727_1920.webp",
+    "title": "wordpress-4297727_1920"
+  },
+  {
+    "id": 1217,
+    "parentId": 385,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/apple-1853259_1920.webp",
+    "title": "apple-1853259_1920"
+  },
+  {
+    "id": 1218,
+    "parentId": 384,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/coffee-5132832_1920.webp",
+    "localPath": "/wp-content/uploads/2020/09/coffee-5132832_1920.webp",
+    "alt": "Demystifying Large Language Models & AI Assistants: A Guide for the General Public",
+    "title": "coffee-5132832_1920"
+  },
+  {
+    "id": 1219,
+    "parentId": 383,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/computer-2242264_1920.webp",
+    "localPath": "/wp-content/uploads/2020/09/computer-2242264_1920.webp",
+    "alt": "Teaching WordPress and SEO on Fiverr",
+    "title": "computer-2242264_1920"
+  },
+  {
+    "id": 1220,
+    "parentId": 382,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/ipad-820272_1920.webp",
+    "title": "ipad-820272_1920"
+  },
+  {
+    "id": 1221,
+    "parentId": 381,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/laptop-593673_1920-1.webp",
+    "title": "laptop-593673_1920-1"
+  },
+  {
+    "id": 1222,
+    "parentId": 380,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/modern-analyst-1316900_1920.webp",
+    "title": "modern-analyst-1316900_1920"
+  },
+  {
+    "id": 1223,
+    "parentId": 379,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/notebook-336634_1920.webp",
+    "title": "notebook-336634_1920"
+  },
+  {
+    "id": 1224,
+    "parentId": 378,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/phone-1052023_1920.webp",
+    "title": "phone-1052023_1920"
+  },
+  {
+    "id": 1225,
+    "parentId": 375,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/yastvsrm.webp",
+    "title": "yastvsrm"
+  },
+  {
+    "id": 1226,
+    "parentId": 313,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/woocommerce-placeholder.webp",
+    "title": "woocommerce-placeholder"
+  },
+  {
+    "id": 1227,
+    "parentId": 294,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/MS-APPSSOURCE.webp",
+    "title": "MS-APPSSOURCE"
+  },
+  {
+    "id": 1228,
+    "parentId": 286,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/09/email-marketing-tools.webp",
+    "title": "email-marketing-tools"
+  },
+  {
+    "id": 1229,
+    "parentId": 279,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/08/yastvsrm.webp",
+    "title": "yastvsrm"
+  },
+  {
+    "id": 1230,
+    "parentId": 266,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/influences2.webp",
+    "title": "influences2"
+  },
+  {
+    "id": 1231,
+    "parentId": 265,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/thumb.webp",
+    "title": "thumb"
+  },
+  {
+    "id": 1232,
+    "parentId": 262,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/data-studio.webp",
+    "title": "data-studio"
+  },
+  {
+    "id": 1233,
+    "parentId": 252,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/Power-BI-Gartner.webp",
+    "title": "Power-BI-Gartner"
+  },
+  {
+    "id": 1234,
+    "parentId": 214,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/insightsthumb.webp",
+    "title": "insightsthumb"
+  },
+  {
+    "id": 1235,
+    "parentId": 211,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/portfolio-web-inner-banner-1920-600.webp",
+    "title": "portfolio-web-inner-banner-1920-600"
+  },
+  {
+    "id": 1236,
+    "parentId": 210,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/wordpress-website-yoast-seo-and-image-optimization-seo-1.webp",
+    "title": "wordpress-website-yoast-seo-and-image-optimization-seo-1"
+  },
+  {
+    "id": 1237,
+    "parentId": 203,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/report_new.webp",
+    "title": "report_new"
+  },
+  {
+    "id": 1238,
+    "parentId": 201,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/mailerlite.webp",
+    "title": "mailerlite"
+  },
+  {
+    "id": 1239,
+    "parentId": 190,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/wordpress-website-yoast-seo-and-image-optimization.webp",
+    "title": "wordpress-website-yoast-seo-and-image-optimization"
+  },
+  {
+    "id": 1240,
+    "parentId": 189,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/wordpress-website-yoast-seo-and-image-optimization-seo.webp",
+    "title": "wordpress-website-yoast-seo-and-image-optimization-seo"
+  },
+  {
+    "id": 1241,
+    "parentId": 188,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/create-custom-excel-spreadsheet-with-vba-and-data-analysis.webp",
+    "title": "create-custom-excel-spreadsheet-with-vba-and-data-analysis"
+  },
+  {
+    "id": 1242,
+    "parentId": 145,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/IMG_1178.webp",
+    "title": "IMG_1178"
+  },
+  {
+    "id": 1243,
+    "parentId": 138,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/sharing.webp",
+    "localPath": "/wp-content/uploads/2020/07/sharing.webp",
+    "alt": "FAQ",
+    "title": "sharing"
+  },
+  {
+    "id": 1244,
+    "parentId": 137,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/SEO.webp",
+    "title": "SEO"
+  },
+  {
+    "id": 1245,
+    "parentId": 136,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/Global-business.webp",
+    "title": "Global-business"
+  },
+  {
+    "id": 1246,
+    "parentId": 135,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/07/excel-VBA.webp",
+    "title": "excel-VBA"
+  },
+  {
+    "id": 1247,
+    "parentId": 49,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/05/cropped-Logo-1.webp",
+    "title": "cropped-Logo-1"
+  },
+  {
+    "id": 1248,
+    "parentId": 46,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/05/cropped-Icon.webp",
+    "title": "cropped-Icon"
+  },
+  {
+    "id": 1249,
+    "parentId": 45,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/05/Icon.webp",
+    "title": "Icon"
+  },
+  {
+    "id": 1250,
+    "parentId": 44,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/05/cropped-Logo-1-1.webp",
+    "title": "cropped-Logo-1-1"
+  },
+  {
+    "id": 1251,
+    "parentId": 43,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2020/05/Logo-1-e1590132773338.webp",
+    "title": "Logo-1-e1590132773338"
+  },
+  {
+    "id": 1273,
+    "parentId": 1272,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/12/Cover-Mindfulness.jpeg",
+    "title": "Cover Mindfulness"
+  },
+  {
+    "id": 1274,
+    "parentId": 1273,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/12/Cover-Mindfulness.webp",
+    "title": "Cover-Mindfulness"
+  },
+  {
+    "id": 1276,
+    "parentId": 1275,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/12/Cover-Mindfulness-1.webp",
+    "title": "Cover-Mindfulness-1"
+  },
+  {
+    "id": 1330,
+    "parentId": 1328,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2022/03/bicode.jpg",
+    "localPath": "/wp-content/uploads/2022/03/bicode.jpg",
+    "alt": "FAQ Power BI Code",
+    "title": "bicode"
+  },
+  {
+    "id": 1349,
+    "parentId": 1138,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2022/04/FeatureImage_Zoho_CRM-1-1.jpg",
+    "localPath": "/wp-content/uploads/2022/04/FeatureImage_Zoho_CRM-1-1.jpg",
+    "alt": "ZOHO CRM Customization",
+    "title": "FeatureImage_Zoho_CRM-"
+  },
+  {
+    "id": 1359,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2022/04/Canva-Home-trader-analyzing-forex-trading-charts-on-computer-screen-investment-1-scaled.jpg",
+    "title": "Home trader analyzing forex trading charts on computer screen investment"
+  },
+  {
+    "id": 1570,
+    "parentId": 1569,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2023/07/msonai.jpg",
+    "localPath": "/wp-content/uploads/2023/07/msonai.jpg",
+    "alt": "AI language models LLM's",
+    "title": "msonai"
+  },
+  {
+    "id": 1589,
+    "parentId": 1586,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2023/07/positiveai.jpeg",
+    "localPath": "/wp-content/uploads/2023/07/positiveai.jpeg",
+    "alt": "Positive doo Embraces Artificial Intelligence (AI)",
+    "title": "positiveai"
+  },
+  {
+    "id": 1594,
+    "parentId": 1592,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2023/07/NewTurbo.jpeg",
+    "localPath": "/wp-content/uploads/2023/07/NewTurbo.jpeg",
+    "alt": "AI Language Models (LLMs)",
+    "title": "NewTurbo"
+  },
+  {
+    "id": 1615,
+    "parentId": 1613,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2023/08/genai.webp",
+    "localPath": "/wp-content/uploads/2023/08/genai.webp",
+    "alt": "Generative AI",
+    "title": "genai"
+  },
+  {
+    "id": 1622,
+    "parentId": 1620,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2023/08/azurepositive.jpg",
+    "localPath": "/wp-content/uploads/2023/08/azurepositive.jpg",
+    "alt": "AI App on Azure",
+    "title": "azurepositive"
+  },
+  {
+    "id": 1633,
+    "parentId": 1628,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2023/08/aipositive.jpg",
+    "localPath": "/wp-content/uploads/2023/08/aipositive.jpg",
+    "alt": "AI Assistants",
+    "title": "aipositive"
+  },
+  {
+    "id": 1641,
+    "parentId": 1638,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2023/09/positiverag-300x168-1.jpg",
+    "localPath": "/wp-content/uploads/2023/09/positiverag-300x168-1.jpg",
+    "alt": "RAG Retrieval-Augmented Generation",
+    "title": "positiverag-300x168"
+  },
+  {
+    "id": 1651,
+    "parentId": 1646,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2023/09/ls.webp",
+    "localPath": "/wp-content/uploads/2023/09/ls.webp",
+    "alt": "langsmith",
+    "title": "ls"
+  },
+  {
+    "id": 1656,
+    "parentId": 1653,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2023/10/lnblogaivoice-1.jpg",
+    "localPath": "/wp-content/uploads/2023/10/lnblogaivoice-1.jpg",
+    "alt": "DALL-E 3",
+    "title": "lnblogaivoice"
+  },
+  {
+    "id": 1667,
+    "parentId": 1664,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2023/10/AIandbusiness.jpg",
+    "localPath": "/wp-content/uploads/2023/10/AIandbusiness.jpg",
+    "alt": "AI for your Business",
+    "title": "AIandbusiness"
+  },
+  {
+    "id": 1674,
+    "parentId": 1672,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2023/11/digitrans.jpg",
+    "localPath": "/wp-content/uploads/2023/11/digitrans.jpg",
+    "alt": "Business Digital Transformation",
+    "title": "digitrans"
+  },
+  {
+    "id": 1682,
+    "parentId": 1679,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2023/11/openai.png",
+    "localPath": "/wp-content/uploads/2023/11/openai.png",
+    "alt": "OpenAI Shuffle",
+    "title": "openai"
+  },
+  {
+    "id": 1694,
+    "parentId": 1691,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2023/12/futurologija.jpg",
+    "localPath": "/wp-content/uploads/2023/12/futurologija.jpg",
+    "alt": "Futurology",
+    "title": "futurologija"
+  },
+  {
+    "id": 1701,
+    "parentId": 1699,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2023/12/positivegemini.jpg",
+    "localPath": "/wp-content/uploads/2023/12/positivegemini.jpg",
+    "alt": "Gemini AI",
+    "title": "positivegemini"
+  },
+  {
+    "id": 1707,
+    "parentId": 1704,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2023/12/new-ai-assistants.jpg",
+    "localPath": "/wp-content/uploads/2023/12/new-ai-assistants.jpg",
+    "alt": "new ai assistants",
+    "title": "new ai assistants"
+  },
+  {
+    "id": 1721,
+    "parentId": 1717,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2023/12/the-future-of-ai.jpg",
+    "localPath": "/wp-content/uploads/2023/12/the-future-of-ai.jpg",
+    "alt": "the future of AI",
+    "title": "the future of ai"
+  },
+  {
+    "id": 1727,
+    "parentId": 1724,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2024/01/AI-and-LLM.jpg",
+    "localPath": "/wp-content/uploads/2024/01/AI-and-LLM.jpg",
+    "alt": "AI and LLM Adoption",
+    "title": "AI and LLM"
+  },
+  {
+    "id": 1731,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2024/01/plusic-3d-pokusaj-v2.png",
+    "title": "plusic-3d-pokusaj-v2"
+  },
+  {
+    "id": 1735,
+    "parentId": 1733,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2024/01/prompt-engineering.jpg",
+    "localPath": "/wp-content/uploads/2024/01/prompt-engineering.jpg",
+    "alt": "prompt engineering",
+    "title": "prompt engineering"
+  },
+  {
+    "id": 1740,
+    "parentId": 1737,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2024/01/pinecone-serverless.jpg",
+    "localPath": "/wp-content/uploads/2024/01/pinecone-serverless.jpg",
+    "alt": "Serverless Vector Databases for AI",
+    "title": "pinecone serverless"
+  },
+  {
+    "id": 1745,
+    "parentId": 1742,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2024/02/serbia-llm.jpg",
+    "localPath": "/wp-content/uploads/2024/02/serbia-llm.jpg",
+    "alt": "AI/LLM-Powered Apps",
+    "title": "serbia llm"
+  },
+  {
+    "id": 1750,
+    "parentId": 1747,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2024/02/API-management.jpg",
+    "localPath": "/wp-content/uploads/2024/02/API-management.jpg",
+    "alt": "OpenAI Enhances API Key Management",
+    "title": "API management"
+  },
+  {
+    "id": 1755,
+    "parentId": 1752,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2024/02/navigatin-the-challenges.jpg",
+    "localPath": "/wp-content/uploads/2024/02/navigatin-the-challenges.jpg",
+    "alt": "AGI for SMEs",
+    "title": "navigatin the challenges"
+  },
+  {
+    "id": 1763,
+    "parentId": 1758,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2024/02/the-rapid-advancements-in-Large-Language-Models.jpg",
+    "localPath": "/wp-content/uploads/2024/02/the-rapid-advancements-in-Large-Language-Models.jpg",
+    "alt": "Rapid Evolution of LLMs",
+    "title": "the rapid advancements in Large Language Models"
+  },
+  {
+    "id": 1771,
+    "parentId": 1768,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2024/03/Corrective-Retrieval-Augmented-Generation.jpg",
+    "localPath": "/wp-content/uploads/2024/03/Corrective-Retrieval-Augmented-Generation.jpg",
+    "alt": "Corrective Retrieval Augmented Generation",
+    "title": "Corrective Retrieval Augmented Generation"
+  },
+  {
+    "id": 1774,
+    "parentId": 1772,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2024/03/dt-for-smes.jpg",
+    "localPath": "/wp-content/uploads/2024/03/dt-for-smes.jpg",
+    "alt": "Digital Transformation for SMEs",
+    "title": "dt for smes"
+  },
+  {
+    "id": 1779,
+    "parentId": 1776,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2024/03/transition-from-development-to-production-in-the-context-of-AI-and-LLM-application-creation.jpg",
+    "localPath": "/wp-content/uploads/2024/03/transition-from-development-to-production-in-the-context-of-AI-and-LLM-application-creation.jpg",
+    "alt": "from Development to Production",
+    "title": "transition from development to production in the context of AI and LLM application creation"
+  },
+  {
+    "id": 1782,
+    "parentId": 1780,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2024/04/AI-agentsSME.jpg",
+    "localPath": "/wp-content/uploads/2024/04/AI-agentsSME.jpg",
+    "alt": "AI Agents",
+    "title": "AI agentsSME"
+  },
+  {
+    "id": 1788,
+    "parentId": 1785,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2024/04/LLM-Apps-with-Streamlit-on-Azure.jpg",
+    "localPath": "/wp-content/uploads/2024/04/LLM-Apps-with-Streamlit-on-Azure.jpg",
+    "alt": "LLM Apps with Streamlit on Azure",
+    "title": "LLM Apps with Streamlit on Azure"
+  },
+  {
+    "id": 1793,
+    "parentId": 1792,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2024/05/gpt40.jpg",
+    "localPath": "/wp-content/uploads/2024/05/gpt40.jpg",
+    "alt": "GPT-4o",
+    "title": "gpt40"
+  },
+  {
+    "id": 1796,
+    "parentId": 1795,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2024/07/AIvariousaspects.jpg",
+    "localPath": "/wp-content/uploads/2024/07/AIvariousaspects.jpg",
+    "alt": "Transitioning LLM Apps to Production",
+    "title": "AIvariousaspects"
+  },
+  {
+    "id": 1800,
+    "parentId": 1798,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2024/07/OpenAIs-Batch-API.jpg",
+    "localPath": "/wp-content/uploads/2024/07/OpenAIs-Batch-API.jpg",
+    "alt": "OpenAI's Batch API",
+    "title": "OpenAI's Batch API"
+  },
+  {
+    "id": 1803,
+    "parentId": 1802,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2024/07/GPT-4o-Mini.jpg",
+    "localPath": "/wp-content/uploads/2024/07/GPT-4o-Mini.jpg",
+    "alt": "GPT-4o Mini",
+    "title": "GPT-4o Mini"
+  },
+  {
+    "id": 1809,
+    "parentId": 1807,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2024/07/LLM-applications.jpg",
+    "localPath": "/wp-content/uploads/2024/07/LLM-applications.jpg",
+    "alt": "Crew AI",
+    "title": "LLM applications"
+  },
+  {
+    "id": 1812,
+    "parentId": 1810,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2024/09/aiplatforms.jpg",
+    "localPath": "/wp-content/uploads/2024/09/aiplatforms.jpg",
+    "alt": "AI-Powered Chatbots on Viber and WhatsApp",
+    "title": "aiplatforms"
+  },
+  {
+    "id": 1817,
+    "parentId": 1815,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2024/10/aibotpositive.jpg",
+    "alt": "How AI Chatbots Improve Customer Interaction",
+    "title": "aibotpositive"
+  },
+  {
+    "id": 1820,
+    "parentId": 1815,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2024/10/aibotpositive-1.jpg",
+    "localPath": "/wp-content/uploads/2024/10/aibotpositive-1.jpg",
+    "alt": "How AI Chatbots Improve Customer Interaction",
+    "title": "aibotpositive"
+  },
+  {
+    "id": 1072,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2021/09/733-znnc-extract-elementor-plugin-package-first.3.4.2-3.3.7.zip",
+    "title": "733-znnc-extract-elementor-plugin-package-first.3.4.2-3.3.7.zip"
+  },
+  {
+    "id": 1823,
+    "parentId": 1822,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2025/05/linkedin.jpg",
+    "localPath": "/wp-content/uploads/2025/05/linkedin.jpg",
+    "alt": "ai news",
+    "title": "linkedin"
+  },
+  {
+    "id": 1830,
+    "parentId": 1828,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2025/06/business-matching-app.jpg",
+    "localPath": "/wp-content/uploads/2025/06/business-matching-app.jpg",
+    "alt": "AI-Powered Matchmaking App",
+    "title": "business matching app"
+  },
+  {
+    "id": 1836,
+    "parentId": 1834,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2025/06/mcp_positive.jpg",
+    "localPath": "/wp-content/uploads/2025/06/mcp_positive.jpg",
+    "alt": "What Is a Private MCP Server?",
+    "title": "mcp_positive"
+  },
+  {
+    "id": 1840,
+    "parentId": 1839,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2025/06/humanintheloop.jpg",
+    "localPath": "/wp-content/uploads/2025/06/humanintheloop.jpg",
+    "alt": "Human-in-the-Loop Is Essential for Agent-Based AI Apps",
+    "title": "humanintheloop"
+  },
+  {
+    "id": 1846,
+    "parentId": 1843,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2025/06/ig_bot.jpg",
+    "localPath": "/wp-content/uploads/2025/06/ig_bot.jpg",
+    "alt": "LLMs for Intelligent Instagram bots",
+    "title": "ig_bot"
+  },
+  {
+    "id": 1849,
+    "parentId": 1848,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2025/07/aiui.jpg",
+    "localPath": "/wp-content/uploads/2025/07/aiui.jpg",
+    "alt": "Rethinking LLM UI: Designing Next-Gen Interfaces for AI-Powered Apps",
+    "title": "aiui"
+  },
+  {
+    "id": 1856,
+    "parentId": 1853,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2025/07/vibe-coding.jpg",
+    "localPath": "/wp-content/uploads/2025/07/vibe-coding.jpg",
+    "alt": "vibe coding",
+    "title": "vibe coding"
+  },
+  {
+    "id": 1858,
+    "parentId": 1857,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2025/07/small-ai-companies.jpg",
+    "localPath": "/wp-content/uploads/2025/07/small-ai-companies.jpg",
+    "alt": "Local AI Specialists",
+    "title": "small ai companies"
+  },
+  {
+    "id": 1866,
+    "parentId": 1862,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2025/07/ChatGPT-Image-Jul-27-2025-09_32_40-AM.png",
+    "localPath": "/wp-content/uploads/2025/07/ChatGPT-Image-Jul-27-2025-09_32_40-AM.png",
+    "alt": "Open vs Proprietary LLMs",
+    "title": "ChatGPT Image Jul 27, 2025, 09_32_40 AM"
+  },
+  {
+    "id": 1872,
+    "parentId": 1869,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2025/08/seorao.jpg",
+    "localPath": "/wp-content/uploads/2025/08/seorao.jpg",
+    "alt": "Optimizing Websites for the AI Search Era",
+    "title": "seorao"
+  },
+  {
+    "id": 1875,
+    "parentId": 1873,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2025/08/small-llms.jpg",
+    "localPath": "/wp-content/uploads/2025/08/small-llms.jpg",
+    "alt": "Many Small LLMs vs One Big LLM: How to choose",
+    "title": "small llms"
+  },
+  {
+    "id": 1880,
+    "parentId": 1879,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2025/08/dm_ai.jpg",
+    "localPath": "/wp-content/uploads/2025/08/dm_ai.jpg",
+    "alt": "From DMs to Delivery",
+    "title": "dm_ai"
+  },
+  {
+    "id": 1885,
+    "parentId": 1883,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2025/09/транслитератион.jpg",
+    "localPath": "/wp-content/uploads/2025/09/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%BE%D0%BD.jpg",
+    "alt": "Building AI Apps in Serbian",
+    "title": "транслитератион"
+  },
+  {
+    "id": 1902,
+    "parentId": 1899,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2025/09/featured_ai_vibe_coding_vanishing_junior_1200x628.jpg",
+    "localPath": "/wp-content/uploads/2025/09/featured_ai_vibe_coding_vanishing_junior_1200x628.jpg",
+    "alt": "Vibe Coding",
+    "title": "featured_ai_vibe_coding_vanishing_junior_1200x628"
+  },
+  {
+    "id": 1904,
+    "parentId": 1903,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2025/10/feature_dev_vs_prod_1200x628.jpg",
+    "localPath": "/wp-content/uploads/2025/10/feature_dev_vs_prod_1200x628.jpg",
+    "alt": "Two Worlds, One Team: How “Dev Mode” Differs from “Production Mode” — and What It Means for Your People",
+    "title": "feature_dev_vs_prod_1200x628"
+  },
+  {
+    "id": 1910,
+    "parentId": 1908,
+    "sourceUrl": "https://business.georgemposi.com/wp-content/uploads/2025/10/deepseekocr.jpg",
+    "localPath": "/wp-content/uploads/2025/10/deepseekocr.jpg",
+    "alt": "How DeepSeek-OCR, their latest breakthrough, redefines OCR and long-context efficiency for AI systems",
+    "title": "deepseekocr"
+  }
+]

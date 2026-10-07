@@ -1,0 +1,30 @@
+{
+  "id": 1802,
+  "type": "post",
+  "title": "GPT-4o Mini is here at Positive doo",
+  "slug": "gpt-4o-mini-is-here-at-positive-doo",
+  "date": "2024-07-20T07:34:56.000Z",
+  "modified": "2024-07-20T07:34:59.000Z",
+  "author": "djordje.thai",
+  "excerpt": "In the dynamic field of AI, OpenAI's latest innovation, GPT-4o Mini, stands out for its cost-efficiency and superior performance. This new model, designed to be significantly more affordable and versatile, is a…",
+  "contentHtml": "<p>In the dynamic field of AI, OpenAI's latest innovation, GPT-4o Mini, stands out for its cost-efficiency and superior performance. This new model, designed to be significantly more affordable and versatile, is a game-changer for small and medium enterprises (SMEs) like Positive doo. As we continue to lead in providing AI-powered applications for digital transformation, GPT-4O Mini offers us an enhanced toolset to serve our clients better.</p>\n\n\n\n<h2><strong>Cost-Effective Intelligence</strong></h2>\n\n\n\n<p>GPT-4o Mini is notably priced at 15 cents per million input tokens and 60 cents per million output tokens, making it over 60% cheaper than GPT-3.5 Turbo. For Positive doo, this translates to significant savings, allowing us to allocate resources more efficiently. The reduced costs enable us to provide more affordable AI solutions to our clients, particularly those looking to leverage AI for data-intensive tasks like image description and vector storage.</p>\n\n\n\n<h2><strong>Enhanced Performance and Capabilities</strong></h2>\n\n\n\n<p>GPT-4o Mini excels in both text and vision tasks, boasting a context window of 128K tokens and supporting up to 16K output tokens per request. Its superior performance in reasoning, math, and coding tasks ensures that our AI applications are not only robust but also highly accurate. This model's ability to handle multimodal reasoning allows us to develop applications that can understand and process diverse data formats, enhancing the overall functionality of our solutions.</p>\n\n\n\n<h2><strong>Real-World Application at Positive doo</strong></h2>\n\n\n\n<p>At Positive doo, we recently utilized GPT-4O Mini to batch process large volumes of images, generating detailed descriptions and corresponding vectors. This efficient batch processing capability has streamlined our workflow, reducing operational costs while maintaining high standards of output quality. By storing these descriptions and vectors in a vector database, we ensure quick and reliable access to information, improving the user experience for our clients.</p>\n\n\n\n<h2><strong>Improved User Interfaces</strong></h2>\n\n\n\n<p>Transitioning from development to production often necessitates more robust frameworks. While Streamlit is excellent for initial development, deploying with FastAPI and React enhances performance and scalability. This approach allows us to build applications that are not only user-friendly but also capable of handling increased demand in a production environment. The integration of GPT-4O Mini with these frameworks ensures that our applications remain cutting-edge and responsive.</p>\n\n\n\n<h2><strong>Conclusion: Driving Digital Transformation</strong></h2>\n\n\n\n<p>OpenAI's GPT-4o Mini represents a significant advancement in AI technology, providing the cost-efficiency and performance needed to drive digital transformation in SMEs. At <a href=\"https://positive.rs\">Positive doo</a>, we are excited to integrate this model into our services, offering our clients innovative, affordable, and high-performing AI solutions. As we continue to explore the capabilities of Mini, we are committed to delivering excellence in every project, helping our clients navigate and thrive in the digital age.</p>\n\n\n\n<p>For more details about GPT-4o Mini, visit the <a href=\"https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/\">OpenAI announcement</a>.</p>\n\n\n\n<p>To learn more about out journey to useful LLM Apps <a href=\"/ai-llms/\">read this</a>.</p>",
+  "categories": [
+    "AI & LLMs"
+  ],
+  "categorySlugs": [
+    "ai-llms"
+  ],
+  "tags": [
+    "AI"
+  ],
+  "tagSlugs": [
+    "ai"
+  ],
+  "featuredImageId": 1803,
+  "featuredImage": "/wp-content/uploads/2024/07/GPT-4o-Mini.jpg",
+  "featuredImageAlt": "GPT-4o Mini",
+  "seoDescription": "GPT-4o Mini is designed to be significantly more affordable and versatile, is a game-changer for SMEs like Positive doo.",
+  "focusKeyword": "GPT-4o Mini",
+  "oldUrl": "https://business.georgemposi.com/gpt-4o-mini-is-here-at-positive-doo/",
+  "route": "/gpt-4o-mini-is-here-at-positive-doo/"
+}

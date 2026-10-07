@@ -1,0 +1,31 @@
+{
+  "id": 1628,
+  "type": "post",
+  "title": "Revolutionizing AI Assistants: Leveraging Fine-tuning in Positive Doo’s Digital Transformation Journey",
+  "slug": "revolutionizing-ai-assistants-leveraging-fine-tuning-in-positive-doos-digital-transformation-journey",
+  "date": "2023-08-26T11:16:03.000Z",
+  "modified": "2023-08-26T11:16:05.000Z",
+  "author": "djordje.thai",
+  "excerpt": "We are Revolutionizing AI Assistants. Fine-tuning is a tech breakthrough for language models like GPT-3.5 Turbo. The process offers developers the power to customize models, enhancing performance for specific use cases.…",
+  "contentHtml": "<p>We are Revolutionizing AI Assistants.</p>\n\n\n\n<p>Fine-tuning is a tech breakthrough for language models like GPT-3.5 Turbo. The process offers developers the power to customize models, enhancing performance for specific use cases. Importantly, this process can be executed at scale.</p>\n\n\n\n<p>OpenAI's latest update has shown notable fruition. A fine-tuned version of GPT-3.5 Turbo can match, or supersede, the basic GPT-4-level capabilities for certain dedicated tasks. Notably, the data ownership with fine-tuning API remains solely with the customer and is never accessed by OpenAI for model training.</p>\n\n\n\n<p>Since introducing GPT-3.5 Turbo, developers and businesses significantly yearned to personalize the model for unique user experiences. Hence, OpenAI's launch now includes supervised fine-tuning to cater to this demand.</p>\n\n\n\n<h2>Several practical examples emerged from our private beta testing. Key areas of improvement include:</h2>\n\n\n\n<ol>\n<li>Improved steerability: Businesses witness better adherence to instructions by the model. For example, if scripted to respond in German, fine-tuning ensures the model follows the command.</li>\n\n\n\n<li>Reliable output formatting: Essential for applications requiring distinct response formats like code completion or API composition, fine-tuning potentiates consistent output formation. This feature significantly helps convert customer prompts into high-quality JSON snippets.</li>\n\n\n\n<li>Custom Tone: Another prime advantage of fine-tuning is achieving the desired tone in the model's output that resonates with the business's brand. It ensures brand consistency in communication.</li>\n</ol>\n\n\n\n<p>Fine-tuning brings about more than just performance enhancement. It also allows for a reduction in prompts while maintaining the performance, saving on API call time and costs.</p>\n\n\n\n<h2>Fine-tuning GPT-3.5-Turbo can effectively manage 4k tokens—twice as much as previous models. Early tests have shown a massive reduction, up to 90%, in prompt size.</h2>\n\n\n\n<p>However, the finest results come from blending fine-tuning with other techniques such as prompt engineering, information retrieval, and function calling. For further knowledge, have a look at our fine-tuning guide. Excitingly, we expect to offer fine-tuning functions for gpt-3.5-turbo-16k later in the fall.</p>\n\n\n\n<p>Positive Doo, in the repertoire of its AI-driven digital transformation offerings, is excited to leverage fine-tuning for improved performance. Our initial target: AI assistants with distinct conversational styles.</p>\n\n\n\n<h2>Here's how we plan to efficiently capitalize on this feature:</h2>\n\n\n\n<ol>\n<li><strong>Custom Conversational Style</strong>: <a href=\"https://positive.rs\">Positive </a><a href=\"//positive.rs\" target=\"_blank\" rel=\"noreferrer noopener\">Doo's</a> AI assistants aim to deliver a genuine human-like conversational experience. Fine-tuning enables these AI assistants to have a unique and distinct style of conversation. This distinctiveness not only aids brand expression but also magnifies user engagement.</li>\n\n\n\n<li><strong>Superior Compliance</strong>: Our AI assistants will employ fine-tuning to better adhere to user instructions. If an end-user demands the assistant to respond in a specific style or language, they should expect nothing less. We believe this aligned obedience to instructions roots a stronger trust in our products.</li>\n\n\n\n<li><strong>Precision in Output</strong>: A hallmark of our service is consistently delivering high-quality response formats. With fine-tuning, we can enhance the AI assistant's accuracy in generating pin-point responses, essential for customer satisfaction.</li>\n\n\n\n<li><strong>Brand Alignment</strong>: Every brand has a unique voice. Positive Doo will use fine-tuning to mould our AI assistant's tone in order to align with your brand ethos, ensuring harmonious communication.</li>\n</ol>\n\n\n\n<p>Fine-tuning is merely a stepping stone in Positive Doo's plan for digital transformation products. We believe when combined with prompt engineering, information retrieval, and function calling, we will significantly ascend the ladder of AI product performance.</p>\n\n\n\n<p>In the long run, we aspire to incorporate fine-tuning capabilities within every aspect of our product line, setting new industry benchmarks and steering Positive Doo toward the forefront of AI-driven digital transformation. In a nutshell, fine-tuning is not merely a feature to us; it's an enabling force geared toward delivering an enhanced user experience.</p>\n\n\n\n<p><a href=\"/positive-doos-ai-app-on-azure/\">Read more about AI and Digital Transformation</a></p>",
+  "categories": [
+    "AI & LLMs"
+  ],
+  "categorySlugs": [
+    "ai-llms"
+  ],
+  "tags": [
+    "AI"
+  ],
+  "tagSlugs": [
+    "ai"
+  ],
+  "featuredImageId": 1633,
+  "featuredImage": "/wp-content/uploads/2023/08/aipositive.jpg",
+  "featuredImageAlt": "AI Assistants",
+  "seoTitle": "AI Assistants in Positive Doo’s Digital Transformation Journey",
+  "seoDescription": "AI Assistants becoming an essential part of every business. Fine-tuning is a tech breakthrough for language models like GPT-3.5 Turbo.",
+  "focusKeyword": "AI Assistants",
+  "oldUrl": "https://business.georgemposi.com/revolutionizing-ai-assistants-leveraging-fine-tuning-in-positive-doos-digital-transformation-journey/",
+  "route": "/revolutionizing-ai-assistants-leveraging-fine-tuning-in-positive-doos-digital-transformation-journey/"
+}

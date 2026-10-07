@@ -1,0 +1,27 @@
+[
+  {
+    "name": "AI & LLMs",
+    "slug": "ai-llms",
+    "descriptionHtml": ""
+  },
+  {
+    "name": "Data & Power BI",
+    "slug": "excel-vba",
+    "descriptionHtml": ""
+  },
+  {
+    "name": "Business",
+    "slug": "global-business",
+    "descriptionHtml": ""
+  },
+  {
+    "name": "Learning",
+    "slug": "learning",
+    "descriptionHtml": ""
+  },
+  {
+    "name": "SEO",
+    "slug": "seo",
+    "descriptionHtml": ""
+  }
+]

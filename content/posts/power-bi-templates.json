@@ -1,0 +1,35 @@
+{
+  "id": 264,
+  "type": "post",
+  "title": "Power BI Templates",
+  "slug": "power-bi-templates",
+  "date": "2020-07-20T13:17:03.000Z",
+  "modified": "2023-08-07T01:30:47.000Z",
+  "author": "djordje.thai",
+  "excerpt": "made some simple Power BI templates for Marketing Data Attribution and published them on Power BI Data Story Gallery. It is done with the dark theme, and I found out that the best action you can take is to find some…",
+  "contentHtml": "<p>&nbsp;made some simple Power BI templates for Marketing Data Attribution and published them on&nbsp;<a href=\"https://community.powerbi.com/t5/Data-Stories-Gallery/Marketing-Data-Attribution-Key-Influencers/m-p/1235179\" target=\"_blank\" rel=\"noreferrer noopener\">Power BI Data Story Gallery</a>.</p>\n\n\n\n<p>It is done with the dark theme, and I found out that the best action you can take is to find some insights once you copy the reports to your Power BI and connect your data. Unfortunately, this option is not available in Power Bi when referring to Publish to Web report.</p>\n\n\n\n<p>Power BI Templates are a great help to all marketing professionals that are responsible for bringing the data to the management in a visually appealing and useful way.</p>\n\n\n\n<h2>Using Power BI templates</h2>\n\n\n\n<p>The power BI template is an example of a Power BI application. An example of a report that you might use to start not from scratch when trying to think of a sales or financial forecast dashboard. You can change, improve, and tailor such a template to the needs of your business.</p>\n\n\n\n<p>Another scenario of using Power BI templates is when you want a user to enter parameters in the file each time he or she launches the report. It might be useful if you have one file connected to several databases, each having precisely the same data structure.</p>\n\n\n\n<p>My goal is to create and use the Power BI template from a business user’s point of view. Every time I start creating a new report, I check what other people already did.</p>\n\n\n\n<p>I was looking at reports created by experienced Power BI users and found it very beneficial. You can check some examples here. I also decided to share my work and help some of you.</p>\n\n\n\n<p>Of course, all those examples look perfect and have required a lot of effort for their creation. Nevertheless, they may give you an idea of what visual type would be suitable in your business case, or what numbers/dimensions you are missing in your analysis.</p>\n\n\n\n<h2>If you want to know more</h2>\n\n\n\n<p>Learn more details about the purpose of this site and my&nbsp;<a href=\"/home/\">Mission,</a></p>\n\n\n\n<p>Apart from this site, where I offer<a>&nbsp;Courses</a>&nbsp;and&nbsp;<a>Private Lessons</a>, at this moment, I offer services on&nbsp;<a href=\"https://www.upwork.com/freelancers/~01826447ec3d539bad?viewMode=1\" target=\"_blank\" rel=\"noreferrer noopener\">Upwork</a>&nbsp;and&nbsp;<a href=\"https://www.fiverr.com/djordjemedakovi?public_mode=true\" target=\"_blank\" rel=\"noreferrer noopener\">Fiverr</a>. It is also possible to have a direct relationship using&nbsp;<a href=\"https://payoneer.com/\" target=\"_blank\" rel=\"noreferrer noopener\">Payoneer</a>, or&nbsp;<a href=\"https://paypal.com/\" target=\"_blank\" rel=\"noreferrer noopener\">PayPal</a>. If you have some other preferred option for collaboration, please&nbsp;use this&nbsp;<a href=\"/contact-us\" target=\"_blank\" rel=\"noreferrer noopener\">contact</a>&nbsp;form for suggestions.</p>",
+  "categories": [
+    "Data & Power BI"
+  ],
+  "categorySlugs": [
+    "excel-vba"
+  ],
+  "tags": [
+    "Data Visualization",
+    "Power BI",
+    "templates"
+  ],
+  "tagSlugs": [
+    "data-visualization",
+    "power-bi",
+    "templates"
+  ],
+  "featuredImageId": 266,
+  "featuredImage": "/wp-content/uploads/2020/07/influences2.png",
+  "featuredImageAlt": "Power BI templates",
+  "seoTitle": "%%title%% %%sep%% %%primary_category%% %%sep%% %%sitename%%",
+  "seoDescription": "I made some simple Power BI templates for Marketing Data Attribution and published on Power BI Data Story Gallery. Pibx file is attached.",
+  "focusKeyword": "Power BI Templates",
+  "oldUrl": "https://business.georgemposi.com/power-bi-templates/",
+  "route": "/power-bi-templates/"
+}

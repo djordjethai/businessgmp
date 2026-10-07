@@ -1,0 +1,33 @@
+{
+  "id": 690,
+  "type": "post",
+  "title": "Power BI Salesforce Dashboard - Importance of efficient CRM reporting",
+  "slug": "power-bi-salesforce-dashboard-importance-of-efficient-crm-reporting",
+  "date": "2021-05-05T04:32:51.000Z",
+  "modified": "2021-05-05T04:40:32.000Z",
+  "author": "djordje.thai",
+  "excerpt": "Power BI Salesforce reports Gartner predicts that by 2021, CRM will be the single largest revenue area of spending in enterprise software. Why? Customer relationship management Customer relationship management (CRM) is…",
+  "contentHtml": "<p>Power BI Salesforce reports</p>\n\n\n\n<p>Gartner predicts that by 2021, CRM will be the single largest revenue area of spending in enterprise software. Why?</p>\n\n\n\n<h2>Customer relationship management</h2>\n\n\n\n<p>Customer relationship management (CRM)&nbsp;is a technology for managing all your company’s relationships and interactions with customers and potential customers.</p>\n\n\n\n<p>A CRM solution helps you, therefore,  focus on your organization’s relationships with customers, service users, colleagues, or suppliers. It follows your lifecycle with them, including finding new customers, winning their business, and providing support and additional services throughout the relationship. CRM, therefore, helps you to improve your business relationships.</p>\n\n\n\n<p>To grow your business, you have to set targets for sales, business objectives, and profitability. You will need, of course, reliable information on your progress. You must collect and transform all the data from sales, customer service, marketing, and social media monitoring into valuable business information.</p>\n\n\n\n<p>A CRM system can give you a clear overview of your customers. Moreover, all the data are in one place organized in a simple, customizable dashboard revealing customer’s previous history with you, the status of their orders, any outstanding customer service issues, and more.</p>\n\n\n\n<h2>Data integration platforms</h2>\n\n\n\n<p><a href=\"https://www.windsor.ai/\" target=\"_blank\" rel=\"noreferrer noopener\">Windsor.ai</a> data integration and data platform (DMP) makes it easy to connect all your data sources and collect desired data. It is quick and straightforward to join and integrate it with other information and use the data together in any other application, marketing platform, or visualization tool. That way, you can focus on the insights gained from the data integrations and run your business rather than spend time on integrating data.</p>\n\n\n\n<p>Using their <a href=\"https://www.windsor.ai/microsoft-power-bi-salesforce-report-dashboard-template/\" target=\"_blank\" rel=\"noreferrer noopener\">Power BI Salesforce Overview Report</a><strong>&nbsp;</strong>template to visualize your Salesforce Contacts in Power BI lets you achieve just that. It will also collect all relevant data from the Salesforce platform and transform them into easy-to-understand visual form.</p>\n\n\n\n<h2>Power BI Dashboard</h2>\n\n\n\n<p>Power BI enables the user to transform and also visualize data using intuitive graphics and giving valuable insights. You can then analyze Salesforce data on an object level.</p>\n\n\n\n<p><a href=\"https://www.salesforce.com/ap/products/what-is-salesforce/\">Salesforce</a>&nbsp;data are organized as objects, database tables that permit you to store the data specific to an organization.</p>\n\n\n\n<p>This Power BI Windsor.ai report pulls the following objects:</p>\n\n\n\n<ul><li>Account</li><li>Lead</li><li>Contact</li><li>Task</li><li>Opportunity</li><li>Campaign</li></ul>\n\n\n\n<p>All objects are queried separately, but you can join them in a single Power Bi Report, add and edit fields and visuals or use the report as it is. It will get you started on your journey to understand better and thus improve your customer relationships.</p>\n\n\n\n<h2>If you want to know more</h2>\n\n\n\n<p>For more details about using Excel, Power BI, Windsor.ai platform, and other advanced productivity tools, you can&nbsp;<a href=\"/contact-us\" target=\"_blank\" rel=\"noreferrer noopener\">contact</a>&nbsp;me here or request a custom offer on &nbsp;<a href=\"https://www.upwork.com/freelancers/~01826447ec3d539bad?viewMode=1\" target=\"_blank\" rel=\"noreferrer noopener\">Upwork</a>&nbsp;and&nbsp;<a href=\"https://www.fiverr.com/djordjemedakovi?public_mode=true\" target=\"_blank\" rel=\"noreferrer noopener\">Fiverr</a>. It is also possible to have a direct relationship using&nbsp;<a href=\"\" target=\"_blank\" rel=\"noreferrer noopener\">&nbsp;</a><a href=\"https://payoneer.com/\" target=\"_blank\" rel=\"noreferrer noopener\">Payoneer</a> or&nbsp;<a href=\"https://paypal.com/\" target=\"_blank\" rel=\"noreferrer noopener\">PayPal</a>. If you have some other preferred option for collaboration, please&nbsp;use this&nbsp;<a href=\"/contact-us\" target=\"_blank\" rel=\"noreferrer noopener\">contact</a>&nbsp;form for suggestions.</p>",
+  "categories": [
+    "Data & Power BI"
+  ],
+  "categorySlugs": [
+    "excel-vba"
+  ],
+  "tags": [
+    "Power BI",
+    "salesforce"
+  ],
+  "tagSlugs": [
+    "power-bi",
+    "salesforce"
+  ],
+  "featuredImageId": 692,
+  "featuredImage": "/wp-content/uploads/2021/05/screely-1619661064285.png",
+  "featuredImageAlt": "Power BI Salesforce",
+  "seoTitle": "%%title%%",
+  "seoDescription": "Power BI enables the user to transform and visualize data using intuitive graphics and giving valuable insights into your Salesforce data.",
+  "focusKeyword": "Power BI Salesforce",
+  "oldUrl": "https://business.georgemposi.com/power-bi-salesforce-dashboard-importance-of-efficient-crm-reporting/",
+  "route": "/power-bi-salesforce-dashboard-importance-of-efficient-crm-reporting/"
+}

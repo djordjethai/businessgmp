@@ -1,0 +1,30 @@
+{
+  "id": 1635,
+  "type": "post",
+  "title": "Quality of a dataset and the success of AI-powered App",
+  "slug": "quality-of-a-dataset-and-the-success-of-ai-powered-app",
+  "date": "2023-09-02T08:56:26.000Z",
+  "modified": "2023-09-02T08:57:43.000Z",
+  "author": "djordje.thai",
+  "excerpt": "The quality of a dataset used to train large language models stands at the heart of their performance. It's a crucial aspect, often associated with the saying \"Garbage in, garbage out.\" This essentially means that…",
+  "contentHtml": "<p>The quality of a dataset used to train large language models stands at the heart of their performance. It's a crucial aspect, often associated with the saying \"Garbage in, garbage out.\" This essentially means that poor-quality training data culminates in less effective models.</p>\n\n\n\n<p>For large language models, the dataset is similar to their nourishment. High-quality feeding furnishes these models with powerful capabilities, opening the gateway to more precise outcomes. It's like pairing a master craftsman with the finest materials.</p>\n\n\n\n<h2>Dataset quality</h2>\n\n\n\n<p>A good dataset is fundamentally balanced, comprehensive, and clean. It mirrors the multifaceted intricacies of the tasks at hand, encapsulating a diversity of inputs minus any harmful or irrelevant entities. This balance ensures that the trained model will be generalist, not skewed towards a particular sub-group of data.</p>\n\n\n\n<p>Data cleaning is another aspect that cannot be overlooked. Irrelevant, duplicate, or incorrect data points can cause a model to behave anomalously, leading to unpredictable and incorrect outcomes. Therefore, maintaining a clean dataset is paramount.</p>\n\n\n\n<h2>Data retrieval</h2>\n\n\n\n<p>Data retrieval is another significant facet, impacting the effectiveness of an AI model. When the model retrieves data in vector form, quality becomes vital.</p>\n\n\n\n<p>After all, vectors are condensed representations of data. A vector holding distorted or incorrect representations will obviously lead to hampered results. Properly shaped and well-represented vectors, on the other hand, empower an AI model to achieve accurate and reliable results.</p>\n\n\n\n<p>Therefore, offering quality vectors to AI models is much like handing a hiker a well-drawn map. It guides the model in the right direction, enabling them to reach the desired destination – your results. At <a href=\"https://positive.rs\" target=\"_blank\" rel=\"noreferrer noopener\">Positive doo</a>, we know the importance of this topic.</p>\n\n\n\n<h2>Reliable solutions</h2>\n\n\n\n<p>In essence, the sacred triad of a high-functioning large language model includes a quality dataset, careful data cleaning, and excellent vectors. To aim for successful model performance without maintaining quality in each of these domains is much like aspiring to paint a masterpiece without quality colors. It’s undoubtedly vital and incredibly rewarding. It is the genesis of high-performing, reliable AI solutions.</p>\n\n\n\n<p>In the world of AI, robust, clean, and comprehensive data reign supreme. Always remember, the journey to superior AI performance starts and ends with the quality of the dataset used for training and the vectors provided for data retrieval.</p>\n\n\n\n<p>Learn more about <a href=\"/ai-llms/\">our services</a>. </p>",
+  "categories": [
+    "AI & LLMs"
+  ],
+  "categorySlugs": [
+    "ai-llms"
+  ],
+  "tags": [
+    "AI"
+  ],
+  "tagSlugs": [
+    "ai"
+  ],
+  "featuredImageId": 380,
+  "featuredImage": "/wp-content/uploads/2020/09/modern-analyst-1316900_1920.jpg",
+  "featuredImageAlt": "Advanced productivity tools - Excel VBA quality of a dataset",
+  "seoDescription": "The quality of a dataset used to train large language models stands at the heart of their performance. As they say: \"Garbage in, garbage out.\"",
+  "focusKeyword": "Quality of a dataset",
+  "oldUrl": "https://business.georgemposi.com/quality-of-a-dataset-and-the-success-of-ai-powered-app/",
+  "route": "/quality-of-a-dataset-and-the-success-of-ai-powered-app/"
+}

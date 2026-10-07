@@ -1,0 +1,289 @@
+{
+  "generatedAt": "2026-10-07T08:27:00.618Z",
+  "postsImported": 97,
+  "pagesImported": 13,
+  "categoriesImported": 5,
+  "usefulTagArchives": 6,
+  "attachmentsInWxr": 217,
+  "attachmentsMapped": 104,
+  "mediaFilesExtracted": 2609,
+  "mediaFilesRetained": 113,
+  "mediaFilesPruned": 2496,
+  "mediaRetainedBytes": 12243883,
+  "mediaPrunedBytes": 61532227,
+  "missingMedia": [],
+  "unresolvedInternalLinks": [],
+  "linksToRemovedContent": [
+    {
+      "source": "/advanced-productivity-tools/",
+      "href": "/courses/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/advanced-productivity-tools/",
+      "href": "/courses/private-lessons/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/seo/",
+      "href": "/courses/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/seo/",
+      "href": "/courses/private-lessons/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/keyword-research/",
+      "href": "/courses/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/keyword-research/",
+      "href": "/courses/private-lessons/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/why-landing-pages-and-email-automation-are-important/",
+      "href": "/courses/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/why-landing-pages-and-email-automation-are-important/",
+      "href": "/courses/private-lessons/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/awareness-building/",
+      "href": "/courses/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/awareness-building/",
+      "href": "/courses/private-lessons/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/power-bi-why-i-use-it/",
+      "href": "/courses/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/power-bi-why-i-use-it/",
+      "href": "/courses/private-lessons/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/data-studio-connectors-what-are-they/",
+      "href": "/courses/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/data-studio-connectors-what-are-they/",
+      "href": "/courses/private-lessons/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/power-bi-templates/",
+      "href": "/courses/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/power-bi-templates/",
+      "href": "/courses/private-lessons/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/supermetrics-alternatives/",
+      "href": "/courses/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/supermetrics-alternatives/",
+      "href": "/courses/private-lessons/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/yoast-or-rank-math-my-personal-view/",
+      "href": "/courses/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/yoast-or-rank-math-my-personal-view/",
+      "href": "/courses/private-lessons/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/email-marketing-rules/",
+      "href": "/courses/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/email-marketing-rules/",
+      "href": "/courses/private-lessons/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/microsoft-appsource-for-power-bi-web-apps/",
+      "href": "/courses/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/microsoft-appsource-for-power-bi-web-apps/",
+      "href": "/courses/private-lessons/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/lifelong-learning-is-the-key-to-personal-success-and-happiness/",
+      "href": "/courses/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/lifelong-learning-is-the-key-to-personal-success-and-happiness/",
+      "href": "/courses/private-lessons/",
+      "reason": "No generated route"
+    },
+    {
+      "source": "/teaching-online/",
+      "href": "/course-category/private-lessons/",
+      "reason": "No generated route"
+    }
+  ],
+  "wooCommerceItemsExcluded": 0,
+  "pagesIntentionallyExcluded": [
+    {
+      "route": "/subscribe/",
+      "slug": "subscribe",
+      "title": "Subscribe",
+      "reason": "obsolete newsletter signup"
+    },
+    {
+      "route": "/thank-you/",
+      "slug": "thank-you",
+      "title": "Thank you",
+      "reason": "obsolete newsletter confirmation"
+    },
+    {
+      "route": "/dashboard/",
+      "slug": "dashboard",
+      "title": "Dashboard",
+      "reason": "obsolete account dashboard"
+    },
+    {
+      "route": "/student-registration/",
+      "slug": "student-registration",
+      "title": "Student Registration",
+      "reason": "obsolete course registration"
+    },
+    {
+      "route": "/instructor-registration/",
+      "slug": "instructor-registration",
+      "title": "Instructor Registration",
+      "reason": "obsolete course registration"
+    },
+    {
+      "route": "/courses/",
+      "slug": "courses",
+      "title": "How to set up WordPress and do SEO",
+      "reason": "obsolete paid course/service page"
+    },
+    {
+      "route": "/shop/",
+      "slug": "shop",
+      "title": "Shop",
+      "reason": "WooCommerce shop"
+    },
+    {
+      "route": "/cart/",
+      "slug": "cart",
+      "title": "Cart",
+      "reason": "WooCommerce cart"
+    },
+    {
+      "route": "/checkout/",
+      "slug": "checkout",
+      "title": "Checkout",
+      "reason": "WooCommerce checkout"
+    },
+    {
+      "route": "/my-account/",
+      "slug": "my-account",
+      "title": "My account",
+      "reason": "WooCommerce account"
+    },
+    {
+      "route": "/refund_returns/",
+      "slug": "refund_returns",
+      "title": "Refund and Returns Policy",
+      "reason": "obsolete commerce policy"
+    },
+    {
+      "route": "/login-customizer/",
+      "slug": "login-customizer",
+      "title": "Login Customizer",
+      "reason": "WordPress plugin system page"
+    },
+    {
+      "route": "/content-restricted/",
+      "slug": "content-restricted",
+      "title": "Content restricted",
+      "reason": "obsolete membership restriction"
+    },
+    {
+      "route": "/1887-2/",
+      "slug": "1887-2",
+      "title": "",
+      "reason": "unrelated experimental landing page"
+    }
+  ],
+  "historicalComments": {
+    "total": 0,
+    "approved": 0
+  },
+  "functionalDependencies": [
+    {
+      "route": "/home/",
+      "type": "form",
+      "detail": "WordPress form controls were removed; preserve any valid outbound links separately."
+    },
+    {
+      "route": "/",
+      "type": "form",
+      "detail": "WordPress form controls were removed; preserve any valid outbound links separately."
+    },
+    {
+      "route": "/learning/",
+      "type": "form",
+      "detail": "WordPress form controls were removed; preserve any valid outbound links separately."
+    },
+    {
+      "route": "/seo-2/",
+      "type": "form",
+      "detail": "WordPress form controls were removed; preserve any valid outbound links separately."
+    },
+    {
+      "route": "/excel-and-power-bi/",
+      "type": "form",
+      "detail": "WordPress form controls were removed; preserve any valid outbound links separately."
+    },
+    {
+      "route": "/global-business-2/",
+      "type": "form",
+      "detail": "WordPress form controls were removed; preserve any valid outbound links separately."
+    },
+    {
+      "route": "/ai-llms/",
+      "type": "form",
+      "detail": "WordPress form controls were removed; preserve any valid outbound links separately."
+    }
+  ],
+  "removedShortcodes": [],
+  "sitemap": {
+    "oldUrlCount": 193,
+    "generatedUrlCount": 121,
+    "missingUrlCount": 0,
+    "intentionallyRemovedUrlCount": 74,
+    "newOnlyUrlCount": 2
+  }
+}

@@ -1,0 +1,624 @@
+{
+  "auditedAt": "2026-10-07T08:27:00.520Z",
+  "oldUrls": [
+    "/",
+    "/1887-2/",
+    "/advanced-productivity-tools/",
+    "/ai-agents/",
+    "/ai-for-your-business/",
+    "/ai-horizons-navigating-the-future-of-ai-and-llms-in-2024/",
+    "/ai-llms/",
+    "/ai-news-leveraging-new-technology/",
+    "/ai-powered-chatbots-on-viber-and-whatsapp/",
+    "/ai-revolutionizing-everyday-work/",
+    "/ai-vibe-coding-and-the-vanishing-junior/",
+    "/augmenting-everyday-work-with-ai-agents-a-game-changer/",
+    "/awareness-building/",
+    "/bridging-the-gap-in-ai-and-llm-adoption/",
+    "/building-ai-apps-in-serbian/",
+    "/category/ai-llms/",
+    "/category/excel-vba/",
+    "/category/global-business/",
+    "/category/learning/",
+    "/category/seo/",
+    "/challenges-of-introducing-ai-supported-solutions-to-businesses/",
+    "/connecting-dropbox-excel-files-to-power-bi/",
+    "/contact-us/",
+    "/content-restricted/",
+    "/corrective-retrieval-augmented-generation-crag/",
+    "/courses/",
+    "/data-protection-practices-for-marketing-data-collecting-services/",
+    "/data-studio-connectors-what-are-they/",
+    "/deepseek-ocr-a-new-era-of-vision-based-text-compression/",
+    "/demystifying-large-language-models-ai-assistants-a-guide-for-the-general-public/",
+    "/digital-transformation-for-smes/",
+    "/email-marketing-rules/",
+    "/embracing-the-future-with-googles-gemini-ai/",
+    "/embracing-vibe-coding/",
+    "/enhancing-llm-applications-with-crew-ai-for-digital-transformation/",
+    "/excel-and-power-bi/",
+    "/exploring-the-future-possibilities-of-ai-language-models-llms/",
+    "/facebook-ads-data-in-power-bi-a-fresh-look/",
+    "/facebook-ads-measurement-and-analysis/",
+    "/faq/",
+    "/from-dms-to-delivery-deploying-messaging-native-ai-agents/",
+    "/generative-ai-the-rising-star-in-ai/",
+    "/global-business-2/",
+    "/gpt-4o-mini-is-here-at-positive-doo/",
+    "/grammarly-and-wordpress-publish-your-post-directly-from-ms-word/",
+    "/grammarly-for-chrome-new-interface/",
+    "/grammarly-how-it-helped-me-to-gain-blogging-confidence/",
+    "/harnessing-gpt-4o-for-small-business-growth-opportunities-and-insights/",
+    "/harnessing-the-power-of-dall-e-3-sparking-an-ai-revolution-in-business/",
+    "/home/",
+    "/how-ai-chatbots-improve-customer-interaction/",
+    "/how-dev-mode-differs-from-production-mode/",
+    "/how-local-ai-specialists-can-outmaneuver-the-giants-and-where-were-headed/",
+    "/how-to-connect-power-bi-and-your-data-from-a-third-party-vendor/",
+    "/how-to-get-your-facebook-ads-google-ads-and-other-data-to-power-bi/",
+    "/instructor-registration/",
+    "/keyword-research/",
+    "/learning-platforms-pros-and-cons/",
+    "/learning/",
+    "/leveraging-ai-llm-powered-apps-for-digital-transformation-in-serbia/",
+    "/leveraging-llms-for-intelligent-instagram-assistant-and-e-commerce-order-automation/",
+    "/lifelong-learning-is-the-key-to-personal-success-and-happiness/",
+    "/linkedin-ads-reporting-and-campaigns-analysis/",
+    "/login-customizer/",
+    "/many-small-llms-vs-one-big-llm-how-to-choose-for-agentic-apps-in-2025/",
+    "/marketing-channels-performance-analysis-in-power-bi/",
+    "/microsoft-appsource-for-power-bi-web-apps/",
+    "/my-facebook-ads-using-the-connectors-to-get-your-data/",
+    "/navigating-the-agi-horizon-agi-for-smes/",
+    "/navigating-the-challenges-of-retrieval-augmented-generation/",
+    "/open-vs-proprietary-llms/",
+    "/openai-enhances-api-key-management-a-leap-forward-for-ai-llm-app-publishers/",
+    "/openais-batch-api/",
+    "/optimizing-websites-for-the-ai-search-era/",
+    "/pioneering-serverless-vector-databases-for-ai-in-pinecone/",
+    "/positive-doo-embraces-artificial-intelligence-ai-to-enhance-business-processes/",
+    "/positive-doos-ai-app-on-azure/",
+    "/positive-embraces-langsmith-a-leap-forward-in-llm-applications-development/",
+    "/power-bi-code-a-small-contribution-towards-a-better-user-experience/",
+    "/power-bi-customized-reports-from-external-sources/",
+    "/power-bi-data-sources-including-pdfs-for-facebook-ads/",
+    "/power-bi-desktop-marketing-attribution-report-templates/",
+    "/power-bi-salesforce-dashboard-importance-of-efficient-crm-reporting/",
+    "/power-bi-templates/",
+    "/power-bi-user-friendly-powerapps/",
+    "/power-bi-why-i-use-it/",
+    "/privacy-policy/",
+    "/prompt-engineering-the-new-literacy-in-the-ai-era/",
+    "/quality-of-a-dataset-and-the-success-of-ai-powered-app/",
+    "/rag-enriching-language-models-with-information-retrieval/",
+    "/rapid-evolution-of-llms-a-sme-developers-perspective/",
+    "/reflecting-on-futurology-an-event-in-zrenjanin-serbia/",
+    "/refund_returns/",
+    "/rethinking-llm-ui-designing-next-gen-interfaces-for-ai-powered-apps/",
+    "/revolutionizing-ai-assistants-leveraging-fine-tuning-in-positive-doos-digital-transformation-journey/",
+    "/revolutionizing-workflows-positives-new-ai-assistants-and-the-new-age-of-digital-transformation/",
+    "/secure-your-digital-transformation/",
+    "/seo-2/",
+    "/seo/",
+    "/shop/",
+    "/smes-and-the-openai-shuffle/",
+    "/spearheading-the-digital-revolution-business-digital-transformation-conference/",
+    "/streamlining-ai-deployment-navigating-llm-apps-with-streamlit-on-azure/",
+    "/student-registration/",
+    "/subscribe/",
+    "/supermetrics-alternatives/",
+    "/tag/advertizing/",
+    "/tag/ai/",
+    "/tag/amazon/",
+    "/tag/anti-spam/",
+    "/tag/artificaial-inteligence/",
+    "/tag/artificial-intelligence/",
+    "/tag/awareness-building/",
+    "/tag/aweber/",
+    "/tag/bing-ads/",
+    "/tag/blog-writing/",
+    "/tag/chatgpt/",
+    "/tag/chrome/",
+    "/tag/connect-data/",
+    "/tag/data-analysis/",
+    "/tag/data-protection/",
+    "/tag/data-visualization/",
+    "/tag/desktop/",
+    "/tag/digital-transformation/",
+    "/tag/dropbox/",
+    "/tag/email-automation/",
+    "/tag/email-marketing/",
+    "/tag/excel/",
+    "/tag/facebook-ads/",
+    "/tag/fiverr-gig/",
+    "/tag/fiverr/",
+    "/tag/google-ads/",
+    "/tag/google-analytics-services/",
+    "/tag/google-analytics/",
+    "/tag/google-data-studio/",
+    "/tag/google-keyword-planner/",
+    "/tag/grammar-check/",
+    "/tag/grammarly/",
+    "/tag/keyword-research/",
+    "/tag/landing-page/",
+    "/tag/leadpages/",
+    "/tag/learning-platforms/",
+    "/tag/lifelong-learning/",
+    "/tag/linkedin-ads/",
+    "/tag/mailerlite/",
+    "/tag/marketing-data/",
+    "/tag/microsoft-appsource/",
+    "/tag/microsoft-appsourcer-power-bi-web-apps/",
+    "/tag/ms-word/",
+    "/tag/online-courses/",
+    "/tag/online-learning/",
+    "/tag/online-lessons/",
+    "/tag/pdf/",
+    "/tag/power-bi-services/",
+    "/tag/power-bi/",
+    "/tag/productivity-tools/",
+    "/tag/rank-math/",
+    "/tag/reports-and-visualization/",
+    "/tag/salesforce/",
+    "/tag/search-engine-optimization/",
+    "/tag/seo-plugin/",
+    "/tag/seo/",
+    "/tag/social-networks/",
+    "/tag/subscribers/",
+    "/tag/supermetrics/",
+    "/tag/teaching-online/",
+    "/tag/templates/",
+    "/tag/upwork/",
+    "/tag/user-friendly-interface/",
+    "/tag/vba/",
+    "/tag/web-apps/",
+    "/tag/windsor-ai/",
+    "/tag/wordpress-seo/",
+    "/tag/wordpress/",
+    "/tag/yoast-seo/",
+    "/tag/yoast/",
+    "/teaching-online/",
+    "/teaching-wordpress-and-seo-on-fiverr/",
+    "/terms-of-use/",
+    "/thank-you/",
+    "/the-future-possibilities-of-ai-language-models-llms-unveiled-by-andrej-karpathy-at-microsoft-build-2023/",
+    "/transform-business-networking-with-ai-powered-matchmaking-app/",
+    "/transitioning-ai-llm-apps-from-development-to-production/",
+    "/transitioning-llm-apps-to-production/",
+    "/unveiling-artificial-general-intelligence-the-road-ahead/",
+    "/using-both-excel-and-power-bi-my-take/",
+    "/visualizing-amazon-data-in-power-bi/",
+    "/what-is-a-private-mcp-server/",
+    "/why-human-in-the-loop-is-essential-for-agent-based-ai-apps/",
+    "/why-is-bing-ads-essential-and-how-to-present-them-in-power-bi/",
+    "/why-landing-pages-and-email-automation-are-important/",
+    "/yoast-or-rank-math-my-personal-view/",
+    "/zoho-crm-customization/"
+  ],
+  "generatedUrls": [
+    "/",
+    "/about/",
+    "/advanced-productivity-tools/",
+    "/ai-agents/",
+    "/ai-for-your-business/",
+    "/ai-horizons-navigating-the-future-of-ai-and-llms-in-2024/",
+    "/ai-llms/",
+    "/ai-news-leveraging-new-technology/",
+    "/ai-powered-chatbots-on-viber-and-whatsapp/",
+    "/ai-revolutionizing-everyday-work/",
+    "/ai-vibe-coding-and-the-vanishing-junior/",
+    "/augmenting-everyday-work-with-ai-agents-a-game-changer/",
+    "/awareness-building/",
+    "/bridging-the-gap-in-ai-and-llm-adoption/",
+    "/building-ai-apps-in-serbian/",
+    "/category/ai-llms/",
+    "/category/excel-vba/",
+    "/category/global-business/",
+    "/category/learning/",
+    "/category/seo/",
+    "/challenges-of-introducing-ai-supported-solutions-to-businesses/",
+    "/connecting-dropbox-excel-files-to-power-bi/",
+    "/contact-us/",
+    "/corrective-retrieval-augmented-generation-crag/",
+    "/data-protection-practices-for-marketing-data-collecting-services/",
+    "/data-studio-connectors-what-are-they/",
+    "/deepseek-ocr-a-new-era-of-vision-based-text-compression/",
+    "/demystifying-large-language-models-ai-assistants-a-guide-for-the-general-public/",
+    "/digital-transformation-for-smes/",
+    "/email-marketing-rules/",
+    "/embracing-the-future-with-googles-gemini-ai/",
+    "/embracing-vibe-coding/",
+    "/enhancing-llm-applications-with-crew-ai-for-digital-transformation/",
+    "/excel-and-power-bi/",
+    "/exploring-the-future-possibilities-of-ai-language-models-llms/",
+    "/facebook-ads-data-in-power-bi-a-fresh-look/",
+    "/facebook-ads-measurement-and-analysis/",
+    "/faq/",
+    "/from-dms-to-delivery-deploying-messaging-native-ai-agents/",
+    "/generative-ai-the-rising-star-in-ai/",
+    "/global-business-2/",
+    "/gpt-4o-mini-is-here-at-positive-doo/",
+    "/grammarly-and-wordpress-publish-your-post-directly-from-ms-word/",
+    "/grammarly-for-chrome-new-interface/",
+    "/grammarly-how-it-helped-me-to-gain-blogging-confidence/",
+    "/harnessing-gpt-4o-for-small-business-growth-opportunities-and-insights/",
+    "/harnessing-the-power-of-dall-e-3-sparking-an-ai-revolution-in-business/",
+    "/home/",
+    "/how-ai-chatbots-improve-customer-interaction/",
+    "/how-dev-mode-differs-from-production-mode/",
+    "/how-local-ai-specialists-can-outmaneuver-the-giants-and-where-were-headed/",
+    "/how-to-connect-power-bi-and-your-data-from-a-third-party-vendor/",
+    "/how-to-get-your-facebook-ads-google-ads-and-other-data-to-power-bi/",
+    "/keyword-research/",
+    "/learning-platforms-pros-and-cons/",
+    "/learning/",
+    "/leveraging-ai-llm-powered-apps-for-digital-transformation-in-serbia/",
+    "/leveraging-llms-for-intelligent-instagram-assistant-and-e-commerce-order-automation/",
+    "/lifelong-learning-is-the-key-to-personal-success-and-happiness/",
+    "/linkedin-ads-reporting-and-campaigns-analysis/",
+    "/many-small-llms-vs-one-big-llm-how-to-choose-for-agentic-apps-in-2025/",
+    "/marketing-channels-performance-analysis-in-power-bi/",
+    "/microsoft-appsource-for-power-bi-web-apps/",
+    "/my-facebook-ads-using-the-connectors-to-get-your-data/",
+    "/navigating-the-agi-horizon-agi-for-smes/",
+    "/navigating-the-challenges-of-retrieval-augmented-generation/",
+    "/open-vs-proprietary-llms/",
+    "/openai-enhances-api-key-management-a-leap-forward-for-ai-llm-app-publishers/",
+    "/openais-batch-api/",
+    "/optimizing-websites-for-the-ai-search-era/",
+    "/pioneering-serverless-vector-databases-for-ai-in-pinecone/",
+    "/positive-doo-embraces-artificial-intelligence-ai-to-enhance-business-processes/",
+    "/positive-doos-ai-app-on-azure/",
+    "/positive-embraces-langsmith-a-leap-forward-in-llm-applications-development/",
+    "/power-bi-code-a-small-contribution-towards-a-better-user-experience/",
+    "/power-bi-customized-reports-from-external-sources/",
+    "/power-bi-data-sources-including-pdfs-for-facebook-ads/",
+    "/power-bi-desktop-marketing-attribution-report-templates/",
+    "/power-bi-salesforce-dashboard-importance-of-efficient-crm-reporting/",
+    "/power-bi-templates/",
+    "/power-bi-user-friendly-powerapps/",
+    "/power-bi-why-i-use-it/",
+    "/privacy-policy/",
+    "/prompt-engineering-the-new-literacy-in-the-ai-era/",
+    "/quality-of-a-dataset-and-the-success-of-ai-powered-app/",
+    "/rag-enriching-language-models-with-information-retrieval/",
+    "/rapid-evolution-of-llms-a-sme-developers-perspective/",
+    "/reflecting-on-futurology-an-event-in-zrenjanin-serbia/",
+    "/rethinking-llm-ui-designing-next-gen-interfaces-for-ai-powered-apps/",
+    "/revolutionizing-ai-assistants-leveraging-fine-tuning-in-positive-doos-digital-transformation-journey/",
+    "/revolutionizing-workflows-positives-new-ai-assistants-and-the-new-age-of-digital-transformation/",
+    "/search/",
+    "/secure-your-digital-transformation/",
+    "/seo-2/",
+    "/seo/",
+    "/smes-and-the-openai-shuffle/",
+    "/spearheading-the-digital-revolution-business-digital-transformation-conference/",
+    "/streamlining-ai-deployment-navigating-llm-apps-with-streamlit-on-azure/",
+    "/supermetrics-alternatives/",
+    "/tag/ai/",
+    "/tag/data-visualization/",
+    "/tag/excel/",
+    "/tag/facebook-ads/",
+    "/tag/power-bi/",
+    "/tag/windsor-ai/",
+    "/teaching-online/",
+    "/teaching-wordpress-and-seo-on-fiverr/",
+    "/terms-of-use/",
+    "/the-future-possibilities-of-ai-language-models-llms-unveiled-by-andrej-karpathy-at-microsoft-build-2023/",
+    "/transform-business-networking-with-ai-powered-matchmaking-app/",
+    "/transitioning-ai-llm-apps-from-development-to-production/",
+    "/transitioning-llm-apps-to-production/",
+    "/unveiling-artificial-general-intelligence-the-road-ahead/",
+    "/using-both-excel-and-power-bi-my-take/",
+    "/visualizing-amazon-data-in-power-bi/",
+    "/what-is-a-private-mcp-server/",
+    "/why-human-in-the-loop-is-essential-for-agent-based-ai-apps/",
+    "/why-is-bing-ads-essential-and-how-to-present-them-in-power-bi/",
+    "/why-landing-pages-and-email-automation-are-important/",
+    "/yoast-or-rank-math-my-personal-view/",
+    "/zoho-crm-customization/"
+  ],
+  "intentionallyRemovedUrls": [
+    {
+      "url": "/1887-2/",
+      "reason": "unrelated experimental landing page"
+    },
+    {
+      "url": "/content-restricted/",
+      "reason": "obsolete membership restriction"
+    },
+    {
+      "url": "/courses/",
+      "reason": "obsolete paid course/service page"
+    },
+    {
+      "url": "/instructor-registration/",
+      "reason": "obsolete course registration"
+    },
+    {
+      "url": "/login-customizer/",
+      "reason": "WordPress plugin system page"
+    },
+    {
+      "url": "/refund_returns/",
+      "reason": "obsolete commerce policy"
+    },
+    {
+      "url": "/shop/",
+      "reason": "WooCommerce shop"
+    },
+    {
+      "url": "/student-registration/",
+      "reason": "obsolete course registration"
+    },
+    {
+      "url": "/subscribe/",
+      "reason": "obsolete newsletter signup"
+    },
+    {
+      "url": "/tag/advertizing/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/amazon/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/anti-spam/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/artificaial-inteligence/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/artificial-intelligence/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/awareness-building/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/aweber/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/bing-ads/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/blog-writing/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/chatgpt/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/chrome/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/connect-data/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/data-analysis/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/data-protection/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/desktop/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/digital-transformation/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/dropbox/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/email-automation/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/email-marketing/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/fiverr-gig/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/fiverr/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/google-ads/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/google-analytics-services/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/google-analytics/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/google-data-studio/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/google-keyword-planner/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/grammar-check/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/grammarly/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/keyword-research/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/landing-page/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/leadpages/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/learning-platforms/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/lifelong-learning/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/linkedin-ads/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/mailerlite/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/marketing-data/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/microsoft-appsource/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/microsoft-appsourcer-power-bi-web-apps/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/ms-word/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/online-courses/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/online-learning/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/online-lessons/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/pdf/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/power-bi-services/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/productivity-tools/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/rank-math/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/reports-and-visualization/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/salesforce/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/search-engine-optimization/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/seo-plugin/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/seo/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/social-networks/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/subscribers/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/supermetrics/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/teaching-online/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/templates/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/upwork/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/user-friendly-interface/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/vba/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/web-apps/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/wordpress-seo/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/wordpress/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/yoast-seo/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/tag/yoast/",
+      "reason": "low-value tag archive"
+    },
+    {
+      "url": "/thank-you/",
+      "reason": "obsolete newsletter confirmation"
+    }
+  ],
+  "missingUrls": [],
+  "newOnlyUrls": [
+    "/about/",
+    "/search/"
+  ]
+}

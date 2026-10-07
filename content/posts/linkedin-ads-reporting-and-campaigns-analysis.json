@@ -1,0 +1,36 @@
+{
+  "id": 586,
+  "type": "post",
+  "title": "LinkedIn Ads reporting and campaigns analysis",
+  "slug": "linkedin-ads-reporting-and-campaigns-analysis",
+  "date": "2020-12-10T02:41:14.000Z",
+  "modified": "2021-08-23T02:42:28.000Z",
+  "author": "djordje.thai",
+  "excerpt": "I recently worked on LinkedIn Ads reporting templates, and I started to look for some key points about the Social campaigns as a whole. The success of social media advertising relies mostly on the social media platform…",
+  "contentHtml": "<p>I recently worked on LinkedIn Ads reporting templates, and I started to look for some key points about the Social campaigns as a whole.</p>\n\n\n\n<p>The success of social media advertising relies mostly on the social media platform on which you run your campaigns:</p>\n\n\n\n<p>For example, Facebook has the largest audience. While Its purpose is to keep people connected with family and friends, many of those people are also involved in business activities.</p>\n\n\n\n<p>Instagram's primary focus is the sharing of images. Therefore, it has a limited impact on B2B.</p>\n\n\n\n<p>Twitter has over 330 million active monthly users, and it is a medium to instantly create and share ideas and information. It also has a large number of business followers.</p>\n\n\n\n<p>LinkedIn targets are business professionals and have over 590 million users by the start of 2019. Moreover, on LinkedIn, you can share your experience as visual or verbal messages. Its users are seeking jobs or share Content. &nbsp;Mainly, they are here to make business connections.</p>\n\n\n\n<p>LinkedIn is the most successful platform for getting quality leads for B2B. 26% of B2B decision-makers are LinkedIn members, and their companies generate 80% of their overall social media marketing leads through LinkedIn.<br></p>\n\n\n\n<h2>Should you advertise on LinkedIn? &nbsp;&nbsp;&nbsp;</h2>\n\n\n\n<p>LinkedIn ads are more expensive than Twitter, Google, or Facebook ads. They are, however, &nbsp;worth the money for the right campaigns. &nbsp;</p>\n\n\n\n<p>The impact of the LinkedIn members is significant, but they also have two times the average web crowd's buying power. LinkedIn ads allow organizations to connect with the world's largest business professionals' community by serving ad content to members through various products and platforms. LinkedIn is the best advertising for B2B companies. &nbsp;Therefore, the quality of leads you gain through a LinkedIn campaign vs. Facebook, Twitter, or Google campaign is unmatchable.</p>\n\n\n\n<p>You can use Sponsored Content, Message Ads, Dynamic Ads, Text Ads, or a mix of all four. Although Sponsored Content appears directly in the LinkedIn feed of professions you want to reach and comes in three different formats: single image ads, video ads, and carousel ads. LinkedIn Ads are less effective than LinkedIn Sponsored Content, which is a great way to accumulate new quality leads and is well worth the money.<br></p>\n\n\n\n<h2>Reporting Your LinkedIn Ads campaigns</h2>\n\n\n\n<p>To effectively use any platform and LinkedIn Ads, you need first to understand your marketing goals and then <a href=\"https://www.windsor.ai/microsoft-power-bi-linkedin-ads-report-dashboard-template/\" target=\"_blank\" rel=\"noreferrer noopener\">understand the data</a>. You should know each measured quantity and how they interact with each other. Using the simple <a href=\"https://appsource.microsoft.com/en-en/product/power-bi/windsorgroupgmbh1585043281642.linkedin-ads?tab=Overview\" target=\"_blank\" rel=\"noreferrer noopener\">LinkedIn Ads overview Report Template</a>, you can start to study your data. You can then expand and the go-ahead to create measures that will suit your marketing needs. From there, your options are limitless.</p>\n\n\n\n<p><strong>Power BI LinkedIn Ads Report Dashboard&nbsp;</strong>Template helps you visualize your LinkedIn Ads into Power BI in a few clicks. Dimensions and metrics pictured in this report are:</p>\n\n\n\n<ul><li>Campaign</li><li>Clicks</li><li>Impressions</li><li>Spend</li><li>CPC</li><li>CPM</li><li>Likes</li><li>Reactions</li><li>Total Engagements</li></ul>\n\n\n\n<p>It queries the data through our connector and makes it available in real-time.<br>&nbsp;</p>\n\n\n\n<h2>Further steps</h2>\n\n\n\n<p>It is just the beginning of the Power BI reports journey. I have used this approach in some of my reports I have published in the <a href=\"https://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery\" target=\"_blank\" rel=\"noreferrer noopener\">Power BI Data Stories Gallery</a>, and I invite you to <a href=\"https://community.powerbi.com/t5/user/viewprofilepage/user-id/240328\" target=\"_blank\" rel=\"noreferrer noopener\">check them out</a>. Please let me know if this post was clear enough and provided you with the information you need to connect to your data using a third-party vendor template. I will be happy to update this article with the necessary details. Also, you can check for more information on my <a href=\"/category/excel-vba/\" target=\"_blank\" rel=\"noreferrer noopener\">blog</a>.<br><br></p>",
+  "categories": [
+    "Data & Power BI"
+  ],
+  "categorySlugs": [
+    "excel-vba"
+  ],
+  "tags": [
+    "linkedin ads",
+    "Microsoft AppSourcer Power BI Web Apps",
+    "Power BI",
+    "windsor.ai"
+  ],
+  "tagSlugs": [
+    "linkedin-ads",
+    "microsoft-appsourcer-power-bi-web-apps",
+    "power-bi",
+    "windsor-ai"
+  ],
+  "featuredImageId": 588,
+  "featuredImage": "/wp-content/uploads/2020/12/linkedinads.png",
+  "featuredImageAlt": "LinkedIn Ads Reporting",
+  "seoDescription": "Using the simple LinkedIn Ads overview Reporting Template, you can study your data. Are LinkedIn ads worth the money for the right campaigns?",
+  "focusKeyword": "LinkedIn Ads reporting",
+  "oldUrl": "https://business.georgemposi.com/linkedin-ads-reporting-and-campaigns-analysis/",
+  "route": "/linkedin-ads-reporting-and-campaigns-analysis/"
+}
