@@ -7,6 +7,8 @@
 
 # testing
 /coverage
+__pycache__/
+*.py[cod]
 
 # next.js
 /.next/
@@ -37,3 +39,6 @@ next-env.d.ts
 
 # local WordPress migration sources (large, private, and not deployable assets)
 migration-source/
+
+# local publishing prompt/draft
+/Use the publish-blog-post skill to creat.txt

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "contentFormat": "json-html",
+  "siteName": "Business Online Mastery",
+  "baseUrl": "https://business.georgemposi.com",
+  "contentDir": "content/posts",
+  "pagesDir": "content/pages",
+  "mediaDir": "public/wp-content/uploads",
+  "mediaPublicPrefix": "/wp-content/uploads/",
+  "searchIndex": "public/search-index.json",
+  "categories": [
+    {
+      "name": "AI & LLMs",
+      "slug": "ai-llms"
+    },
+    {
+      "name": "Data & Power BI",
+      "slug": "excel-vba"
+    },
+    {
+      "name": "Business",
+      "slug": "global-business"
+    },
+    {
+      "name": "Learning",
+      "slug": "learning"
+    },
+    {
+      "name": "SEO",
+      "slug": "seo"
+    }
+  ],
+  "defaultAuthor": "George M. Posi",
+  "requireDescription": true,
+  "requireFeaturedImage": false,
+  "contactEmail": "info@georgemposi.com"
+}

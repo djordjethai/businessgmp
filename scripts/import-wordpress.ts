@@ -334,17 +334,7 @@ async function main(): Promise<void> {
 
   const home = importedItems.find((item) => item.slug === "home");
   if (!home) throw new Error("Published home page was not found in the WXR export");
-  const homeAlias: ContentItem = {
-    ...home,
-    id: -2,
-    slug: "home-legacy",
-    route: "/home/",
-    oldUrl: `${siteUrl}/home/`,
-    title: "Business Online Mastery",
-    contentHtml: '<p>The homepage is now available at <a href="/"><strong>Business Online Mastery</strong></a>.</p>',
-    canonical: `${siteUrl}/home/`,
-  };
-  const items = [...importedItems, homeAlias, createAboutPage(home)];
+  const items = [...importedItems, createAboutPage(home)];
 
   const usedCategorySlugs = new Set(items.filter((item) => item.type === "post").flatMap((item) => item.categorySlugs));
   const categories = parsed.categories
