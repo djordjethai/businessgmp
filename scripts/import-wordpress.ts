@@ -276,7 +276,7 @@ function createAboutPage(home: ContentItem): ContentItem {
     oldUrl: `${siteUrl}/about/`,
     title: "About",
     excerpt: "The experience behind Business Online Mastery.",
-    contentHtml: `<p>My name is Dorde Medakovic. For more than 30 years I have worked as an owner and manager in the information-technology and IT-services industry.</p><p>Business Online Mastery is where I share what that experience continues to teach me—from AI and large language models to data, Power BI, digital business, learning, and SEO.</p><p>The goal is practical: make complex technology easier to understand, connect it to real business work, and share lessons that may help other professionals and entrepreneurs.</p>`,
+    contentHtml: `<p>My name is George M. Posi. For more than 30 years I have worked as an owner and manager in the information-technology and IT-services industry.</p><p>Business Online Mastery is where I share what that experience continues to teach me—from AI and large language models to data, Power BI, digital business, learning, and SEO.</p><p>The goal is practical: make complex technology easier to understand, connect it to real business work, and share lessons that may help other professionals and entrepreneurs.</p>`,
     categories: [],
     categorySlugs: [],
     tags: [],

@@ -10,6 +10,7 @@ A static preservation of **Business Online Mastery — Sharing The Experience**,
 - Content stored as JSON under `content/`
 - Editorial media stored under `public/wp-content/uploads/`
 - Client-side search generated as `public/search-index.json`
+- Schema.org JSON-LD generated from the same content and site identity
 - Production output generated in `out/`
 
 ## Local development
@@ -25,11 +26,17 @@ Run the complete test, build, and static-output validation sequence with:
 npm run check
 ```
 
+`npm run prepare-content` validates editorial JSON and regenerates `public/search-index.json`. `npm run build` remains Node-only so Azure Static Web Apps can produce the static export with Oryx; the existing GitHub Actions workflow provisions Python 3.13 and runs content preparation before the Azure build.
+
 ## Content updates
 
 The live website is no longer WordPress. For normal maintenance, edit the relevant JSON content, components, styles, or media directly, then run `npm run check` before committing.
 
 The `npm run import:wordpress` command is a preserved one-time migration utility. It rebuilds generated content and media from the archived WXR and uploads ZIP and should not be used for routine updates.
+
+## SEO and structured data
+
+The existing metadata layer generates canonical URLs, descriptions, and Open Graph fields. `lib/structured-data.ts` adds Schema.org JSON-LD without requiring a CMS or rich-text editor. Posts use `BlogPosting`; regular, about, contact, archive, and search pages use the corresponding page type; content routes include `BreadcrumbList`; and the homepage identifies the `WebSite`, Business Online Mastery publishing organization, and George M. Posi as author. The static-output validator checks every indexable HTML page for valid JSON-LD whose page identity matches its canonical URL.
 
 ## Migration sources and reports
 

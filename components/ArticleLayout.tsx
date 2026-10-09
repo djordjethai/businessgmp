@@ -1,6 +1,8 @@
 import Link from "next/link";
 import { ContactDetails } from "@/components/ContactDetails";
+import { JsonLd } from "@/components/JsonLd";
 import { CONTACT_EMAIL } from "@/lib/site";
+import { contentStructuredData, PUBLIC_AUTHOR_NAME } from "@/lib/structured-data";
 import type { ContentItem } from "@/lib/types";
 
 const dateFormatter = new Intl.DateTimeFormat("en", { year: "numeric", month: "long", day: "numeric", timeZone: "UTC" });
@@ -9,10 +11,11 @@ export function ArticleLayout({ item, previous, next }: { item: ContentItem; pre
   const isPost = item.type === "post";
   return (
     <main>
+      <JsonLd data={contentStructuredData(item)} />
       <header className="article-hero shell reading-width">
         {isPost && item.categories.length ? <div className="article-categories">{item.categories.map((category, index) => <span key={item.categorySlugs[index] || category}>{index ? " / " : ""}<Link href={`/category/${item.categorySlugs[index]}/`}>{category}</Link></span>)}</div> : <p className="section-label">Business Online Mastery</p>}
         <h1>{item.title}</h1>
-        {isPost ? <p className="article-date"><time dateTime={item.date}>{dateFormatter.format(new Date(item.date))}</time>{item.author ? ` · ${item.author}` : ""}</p> : item.slug === "contact-us" ? <p className="page-intro">Contact Business Online Mastery at <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.</p> : item.excerpt ? <p className="page-intro">{item.excerpt}</p> : null}
+        {isPost ? <p className="article-date"><time dateTime={item.date}>{dateFormatter.format(new Date(item.date))}</time>{` · ${PUBLIC_AUTHOR_NAME}`}</p> : item.slug === "contact-us" ? <p className="page-intro">Contact Business Online Mastery at <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.</p> : item.excerpt ? <p className="page-intro">{item.excerpt}</p> : null}
       </header>
       {item.featuredImage ? <figure className="featured-image shell wide-reading-width"><img src={item.featuredImage} alt={item.featuredImageAlt || item.title} /></figure> : null}
       {item.contentHtml ? <div className="article-body shell reading-width" dangerouslySetInnerHTML={{ __html: item.contentHtml }} /> : null}

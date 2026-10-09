@@ -17,7 +17,7 @@ Use [resources/post-template.json](resources/post-template.json) only as a schem
 
 ## Verify
 
-Do not manually edit the sitemap, category/tag archives, recent-post lists, or `public/search-index.json`. The Next.js loaders derive the routes and archives, and `npm run build` regenerates the search index.
+Do not manually edit the sitemap, category/tag archives, recent-post lists, or `public/search-index.json`. The Next.js loaders derive the routes and archives, and `npm run prepare-content` regenerates the search index as part of `npm run check`.
 
 Before reporting completion, run:
 
@@ -27,5 +27,7 @@ Before reporting completion, run:
 4. `npm run validate`
 
 Report the changed file, slug, expected public URL, category when applicable, featured image, and the result of each check.
+
+After creating or updating content, verify that the generated sitemap includes the expected public URL. Do not manually edit generated sitemap files unless the project architecture explicitly requires it.
 
 Do not automatically commit, push, deploy, change DNS, or change Azure resources. Perform any of those only when the user explicitly asks.

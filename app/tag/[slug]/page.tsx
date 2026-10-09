@@ -1,8 +1,10 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { ArticleCard } from "@/components/ArticleCard";
+import { JsonLd } from "@/components/JsonLd";
 import { getPostsByTag, getUsefulTags } from "@/lib/content";
 import { absoluteUrl } from "@/lib/seo";
+import { archiveStructuredData } from "@/lib/structured-data";
 
 export const dynamicParams = false;
 
@@ -23,8 +25,10 @@ export default async function TagPage({ params }: { params: Promise<{ slug: stri
   const tag = getUsefulTags().find((candidate) => candidate.slug === slug);
   if (!tag) notFound();
   const posts = getPostsByTag(slug);
+  const description = `Articles about ${tag.name} from Business Online Mastery.`;
   return (
     <main className="archive-page shell">
+      <JsonLd data={archiveStructuredData({ title: tag.name, description, route: `/tag/${slug}/`, posts })} />
       <header className="archive-header reading-width"><p className="section-label">Topic thread</p><h1>{tag.name}</h1><p>{tag.count} articles</p></header>
       <div className="article-grid">{posts.map((post) => <ArticleCard article={post} key={post.id} />)}</div>
     </main>
